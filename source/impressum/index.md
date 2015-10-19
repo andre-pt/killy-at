@@ -1,5 +1,3 @@
-title: Wilkommen
+title: Impressum
 ---
 
-this is the home
-================

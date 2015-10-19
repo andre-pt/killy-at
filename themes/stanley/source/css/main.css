@@ -38,7 +38,8 @@ h1 {
 /* Paragraph & Typographic */
 p {
     line-height: 28px;
-    margin-bottom: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     font-size: 16px;
 }
 
@@ -83,6 +84,14 @@ a:after {
     padding: 0;
 }
 
+blockquote {
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: 17.5px;
+    border-left: 5px solid #eee;
+    /*background-color: #eee;*/
+}
+
 
 .navbar {
 	text-transform: uppercase;
@@ -104,7 +113,25 @@ a:after {
 }
 
 .navbar-inverse .navbar-nav > li > a:hover {
-	color: #222222;
+	color: #3A7136; /* 222222 */
+}
+
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover {
+    color: #fff;
+    background-color: #3A7136;
+}
+
+.navbar-nav>li>.dropdown-menu {
+    background-color: #3A7136;
+}
+.dropdown-menu>li>a {
+    color: #fff;
+}
+
+@media (max-width: 767px) {
+    .navbar-inverse .navbar-nav .open .dropdown-menu>li>a {
+        color: #fff;
+    }
 }
 
 .navbar-brand {
@@ -150,18 +177,13 @@ a:after {
 
 #footer {
 	background-color: #2f2f2f;
+    margin-top: 30px;
 	padding-top: 20px;
 	padding-bottom: 20px; 
 }
 
-#footer p {
+#footer a {
 	color: white;
-}
-
-#footer h4 {
-	color: white;
-	text-transform: uppercase;
-	padding-bottom: 20px;
 }
 
 
@@ -206,33 +228,6 @@ bt {
 	font-size: 12px;
 }
 
-/* ================== PORTFOLIO IMAGES HOVER EFFECT ================== */
-/* Effects also are controled by hover.zoom.js */
-.zoom { 
-    display:block; 
-    position:relative; 
-    overflow:hidden; 
-    background:transparent url(../img/loader.gif) no-repeat center;
-}
-
-
-    .zoomOverlay {
-        position:absolute;
-        top:0; left:0;
-        bottom:0; right:0;
-        display:none;
-        background-image:url(../img/zoom.png);
-        background-repeat:no-repeat;
-        background-position:center;
-    }
-
-.zoom2 {
-	opacity: 1;
-}
-
-.zoom2:hover {
-	opacity: 0.5;
-}
 
 /* glyphicon Configuration */
 
@@ -242,9 +237,9 @@ bt {
 }
 
 
-/* Bootstrap dropdown on hover */
+/* Bootstrap dropdown on hover * /
 @media (min-width: 979px) {
   ul.nav li.dropdown:hover > ul.dropdown-menu {
     display: block;
   }
-}
+}*/

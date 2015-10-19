@@ -72,5 +72,5 @@ deploy:
   repo: git@github.com:andre-pt/killy-at.git
   branch: gh-pages
 
-exclude_generator:
-  - index
+sitemap:
+  path: sitemap.xml

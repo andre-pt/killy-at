@@ -3,6 +3,8 @@ Angebot:
   "Psychologische Beratung": "/angebot/psychologische-beratung/"
   Elternberatung: "/angebot/elternberatung/"
   "Online Beratung": "/angebot/online-beratung/"
-"Über Mich": "/uber-mich/"
+"Über Mich":
+  "Über Mich": "/uber-mich/"
+  "Meine Arbeitsweise": "/uber-mich/meine-arbeitsweise/"
 Organisatorisches: "/organisatorisches/"
 Kontakt: "/kontakt/"
