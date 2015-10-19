@@ -1,0 +1,25 @@
+{
+  "name": "killy-at",
+  "version": "0.1.0",
+  "authors": [
+    "Andre Martins <andrepm@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "themes/stanley/source/libs"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.11.3",
+    "bootstrap": "~3.3.5"
+  }
+}
