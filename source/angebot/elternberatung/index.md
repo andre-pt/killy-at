@@ -1,5 +1,7 @@
-title: Elternberatung / Pädagogische Beratung
+title: Angebot
 ---
+
+### Elternberatung / Pädagogische Beratung
 
 In der Erziehungsberatung geht es um alle Fragen im Zusammenleben mit Kindern.
 

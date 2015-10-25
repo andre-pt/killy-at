@@ -1,5 +1,7 @@
-title: Online Beratung
+title: Angebot
 ---
+
+### Online Beratung
 
 Wir leben in einer Zeit in der durch das Internet räumliche Grenzen stark ausgeweitet wurden. Viele Menschen haben wenig (Frei-) Zeit und Möglichkeiten eine Beratung persönlich aufzusuchen. Aufgrund räumlicher Distanz, wenig Flexibilität bzgl. der Kinderbetreuung und anderen Gründen, kann es schwierig sein, einen Termin tagsüber einplanen zu können. 
 

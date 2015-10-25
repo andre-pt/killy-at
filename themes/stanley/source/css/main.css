@@ -9,12 +9,19 @@
 
 @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
 
+html {
+  position: relative;
+  min-height: 100%;
+}
+
 body {
   	background-color: #ffffff;
   	font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     font-size: 14px;
     color: #555;
+
+    margin-bottom: 80px;
 
     -webkit-font-smoothing: antialiased;
     -webkit-overflow-scrolling: touch;
@@ -90,6 +97,24 @@ blockquote {
     font-size: 17.5px;
     border-left: 5px solid #eee;
     /*background-color: #eee;*/
+}
+
+.content {
+    min-height: 300px;
+}
+
+.content > ul {
+    font-size: 16px;
+}
+
+.home-photo {
+    float: right;
+}
+
+@media(max-width:700px){
+    .home-photo {
+        visibility: hidden;
+    }    
 }
 
 
@@ -176,8 +201,10 @@ blockquote {
 
 
 #footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 	background-color: #2f2f2f;
-    margin-top: 30px;
 	padding-top: 20px;
 	padding-bottom: 20px; 
 }
@@ -185,7 +212,6 @@ blockquote {
 #footer a {
 	color: white;
 }
-
 
 /* +++++ Color Wraps / Blog Page +++++ */
 
@@ -202,37 +228,9 @@ blockquote {
 }
 
 
-
-/* Blog Date*/
-bd {
-	font-size: 12px;
-	text-transform: uppercase;
-	color: #d2d2d2;
-	font-weight: 700;
-}
-
-/* Blog Author*/
-ba {
-	font-size: 12px;
-	text-transform: uppercase;
-}
-
-/* Blog Quote */
-.bq {
-	font-size: 22px;
-	padding-top: 30px;
-}
-
-/* Blog Tags */
-bt {
-	font-size: 12px;
-}
-
-
 /* glyphicon Configuration */
 
 .glyphicon {
-	font-size: 40px;
 	color: #1abc9c;
 }
 
