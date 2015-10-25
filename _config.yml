@@ -47,3 +47,29 @@ theme: stanley
 
 sitemap:
   path: sitemap.xml
+
+html_minifier:
+  exclude:
+  removeComments: true
+  removeCommentsFromCDATA: true
+  removeCDATASectionsFromCDATA: true
+  collapseWhitespace: true
+  conservativeCollapse: true
+  preserveLineBreaks: true
+  collapseBooleanAttributes: true
+  removeAttributeQuotes: false
+  removeRedundantAttributes: true
+  preventAttributesEscaping: false
+  useShortDoctype: false
+  removeEmptyAttributes: true
+  removeScriptTypeAttributes: false
+  removeStyleLinkTypeAttributes: false
+  removeOptionalTags: false
+  removeIgnored: true
+  removeEmptyElements: false # This appears to break if set to true
+  lint: false
+  keepClosingSlash: false
+  caseSensitive: false
+  minifyJS: true
+  minifyCSS: true
+  minifyURLs: false
