@@ -101,6 +101,7 @@ blockquote {
 
 .content > ul {
     font-size: 16px;
+    line-height: 28px;
 }
 
 .home-photo {
