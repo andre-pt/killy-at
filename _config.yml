@@ -49,7 +49,6 @@ sitemap:
   path: sitemap.xml
 
 html_minifier:
-  exclude:
   removeComments: true
   removeCommentsFromCDATA: true
   removeCDATASectionsFromCDATA: true
