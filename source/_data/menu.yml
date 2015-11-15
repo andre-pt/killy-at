@@ -1,10 +1,5 @@
-Willkommen: /index.html
-Angebot:
-  "Psychologische Beratung": "/angebot/psychologische-beratung/"
-  "Pädagogische Beratung": "/angebot/padagogische-beratung/"
-  "Online Beratung": "/angebot/online-beratung/"
-"Über Mich":
-  "Über Mich": "/uber-mich/"
-  "Meine Arbeitsweise": "/uber-mich/meine-arbeitsweise/"
+Willkommen: /
+Angebot: "/angebot/"
+"Über Mich": "/uber-mich/"
 Organisatorisches: "/organisatorisches/"
 Kontakt: "/kontakt/"
