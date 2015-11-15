@@ -10,7 +10,7 @@
     "hexo-browsersync": "^0.2.0",
     "hexo-clean-css": "0.0.2",
     "hexo-deployer-git": "0.0.4",
-    "hexo-generator-sitemap": "^1.0.1",
+    "hexo-generator-seo-friendly-sitemap": "0.0.11",
     "hexo-html-minifier": "0.0.1",
     "hexo-renderer-ejs": "^0.1.0",
     "hexo-renderer-marked": "^0.2.4",
