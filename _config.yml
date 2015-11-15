@@ -72,3 +72,14 @@ html_minifier:
   minifyJS: true
   minifyCSS: true
   minifyURLs: false
+
+imagemin:
+  enable     : true
+  interlaced : true
+  multipass  : true
+  optimizationLevel: 2
+  pngquant   : true
+  progressive: true
+
+toc:
+  maxDepth: 3

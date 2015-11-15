@@ -1,6 +1,8 @@
 title: Angebot
 ---
 
+<!-- toc -->
+
 ### Psychologische Beratung
 
 In der psychologischen Beratung werden durch eine klärende sowie wertschätzende, unterstützende Interaktionsform gemeinsam neue Perspektiven entwickelt und Veränderungs- und Lösungsmöglichkeiten erarbeitet. Ziel in der psychologischen Beratung kann die Bewältigung eines Problems, einer Krisensituation oder unter anderem auch die Selbstwertstärkung sein.
