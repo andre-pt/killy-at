@@ -116,6 +116,20 @@ blockquote {
     }    
 }
 
+@media (max-width: 767px) {
+    .logo {
+        width: 290px;
+    }
+}
+
+.navbar-right {
+    margin-top: 95px;
+}
+@media (max-width: 1170px) {
+    .navbar-right {
+        margin-top: 0px;
+    }
+}
 
 .navbar {
 	text-transform: uppercase;
@@ -136,7 +150,9 @@ blockquote {
 .navbar-inverse .navbar-nav > li > a:hover {
 	color: #3A7136;
 }
-
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: #81A963;
+}
 .navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover {
     color: #fff;
     background-color: #3A7136;
