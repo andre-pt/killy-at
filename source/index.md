@@ -1,5 +1,5 @@
 
-{% img home-photo /kk_home.jpg 450 450 Katharina Killy	 %}
+{% img home-photo /kk_home.jpg 450 450 Katharina Killy %}
 
 
 {% blockquote Albert Einstein %}
