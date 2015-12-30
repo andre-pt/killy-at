@@ -48,7 +48,7 @@ h1 {
 p {
     line-height: 28px;
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
     font-size: 16px;
 }
 
@@ -106,13 +106,23 @@ blockquote {
     line-height: 28px;
 }
 
-.home-photo {
+.person-photo {
     float: right;
+}
+.person-photo-mobile {
+    display: none;
 }
 
 @media(max-width:700px){
-    .home-photo {
-        visibility: hidden;
+    .person-photo {
+        display: none;
+    }  
+    .person-photo-mobile {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 250px;
+        height: 250px;
     }    
 }
 
