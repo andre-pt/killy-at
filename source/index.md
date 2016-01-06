@@ -1,4 +1,4 @@
-{% img person-photo /home.jpg 400 222 %}
+{% img person-photo /home.png 210  %}
 
 {% blockquote Albert Einstein %}
 Man muss die Welt nicht verstehen, 
