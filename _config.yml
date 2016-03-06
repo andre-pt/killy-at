@@ -82,4 +82,4 @@ imagemin:
   progressive: true
 
 toc:
-  maxDepth: 3
+  maxdepth: 4

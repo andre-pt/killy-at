@@ -17,44 +17,65 @@ Mögliche Gründe für eine psychologische Beratung können sein:
 - Klärung persönlicher Fragen
 
 <br>
-### Elternberatung / pädagogische Beratung
+### Elternberatung
+#### bei Erziehungs- und Entwicklungsfragen
 
-In der Erziehungsberatung geht es um alle Fragen im Zusammenleben mit Kindern. Elternschaft kann alle Beteiligten vor große Herausforderungen und Fragen stellen. 
+In der Erziehungsberatung geht es um alle Fragen im Zusammenleben mit Kindern. Elternschaft kann alle Beteiligten vor große Herausforderungen und Fragen stellen.
 
-Jedes Kind entwickelt sich individuell entsprechend den eigenen Stärken und Interessen und dem sozialen Umfeld, und auch Sie als Eltern bringen - bewusst oder unbewusst - Ihre eigenen Kindheitserinnerungen, Normen und Wertvorstellungen mit ein. Grundsätzlich gehe ich davon aus, dass Sie als Eltern(teil) Ihr Kind am besten kennen und intuitiv wissen, was Sie tun können bzw. sollten.
+Es wird bei der Beratung nicht festgelegt, wie Erziehung zu funktionieren hat, denn die Eltern sind selbst die Spezialisten für ihre eigenen oder anvertrauten Kinder und haben ihre ganz speziellen Fähigkeiten und Eigenschaften, die zur Vielfältigkeit der Menschheit unschätzbaren Wert liefern. Wenn Eltern jedoch Unsicherheiten in der Kindererziehung haben, im Familiensystem herausfordernde Verhältnisse vorherrschen, dann kann professionelle Unterstützung helfen Handlungsalternativen zu entwickeln und Eltern in Ihrer Erziehungskompetenz (wieder) zu stärken, Sicherheit zu erlangen und mehr Ruhe in das Familienleben zu bringen. Erziehungsberatung bedeutet in jedem Fall: Zusammenarbeit mit den Eltern!
+<br>
+- Fragen zur körperlichen, kognitiven, emotionalen und sozialen Entwicklung des Kindes
+- Familiäre Belastungen, wie persönliche Krisen, Trennung, Tod, Beziehungsprobleme...
+- weitere mögliche Themen: Umgang mit Grenzen setzen, Ängste (Trennungsängste), Zorn, Probleme beim Sauber werden, Selbstwertprobleme und plötzlicher Rückzug, psychosomatische Auffälligkeiten (wie z.B. Schlafstörungen, Essprobleme, Bauchschmerzen), wenig Interesse oder Ausdauer bezüglich der Spielangebote, häufiges Zusammenstoßen mit anderen Kindern oder Möbel bzw. unkoordiniert sein...
 
-In schwierigen Phasen bzw. bei speziellen Problemen kann es jedoch vorkommen, dass man kaum Handlungsalternativen findet oder es nicht mehr schafft, sachlich über eine Situation nachzudenken. Ziel meiner Beratung ist es, gemeinsam Ursachen und Auslöser aufzudecken, Handlungsalternativen zu entwickeln und Sie in Ihrer Erziehungskompetenz (wieder) zu stärken. 
+<br>
+### Entwicklungsdiagnostik
 
-Mögliche Themen für die Erziehungsberatung:
-- Unterstützung bei familiären Veränderungen
-- Bewältigung von schwierigen Situationen (z.B. Trotzphase, Geschwisterrivalität, (nicht-) Einhalten von Regeln…)
-- Emotionale- und Verhaltensauffälligkeiten (z.B. Wutanfälle…)
-- individuelle Förderung des Kindes
+Im Rahmen einer Entwicklungsdiagnostik kann der aktuelle Entwicklungsstand von **3- bis 6-jährigen** Kindern festgestellt werden. Das Kind löst dabei spielerisch Aufgaben und ergänzend werden die Eltern zu relevanten Bereichen befragt. Bei Bedarf und Einverständnis wird auch das Umfeld (Kindergarten, weitere TherapeutInnen...) in den Diagnoseprozess (etwa durch Ausfüllen eines Fragebogens oder (Telefon-)Gespräche) miteinbezogen. Es werden einerseits standardisierte psychologische Untersuchungsverfahren eingesetzt, als auch das Verhalten und die Interaktion des Kindes mit seiner Umwelt beobachtet.
+
+Aus den Aufgabenergebnissen, der Verhaltensbeobachtung und einem eingehenden Gespräch mit dem Kind zeigt sich, wo sich Ihr Kind momentan hinsichtlich der kognitiven, emotional-sozialen und körperlichen Entwicklung befindet und welche Stärken und/oder Schwächen vorliegen. Basierend auf diesem Entwicklungsprofil können bei Bedarf gezielte Maßnahmen zur Entwicklungsförderung empfohlen und ggf. durchgeführt werden.
+
+Eine Entwicklungsdiagnostik ist beispielsweise bei folgenden Fragestellungen hilfreich:
+- Ist mein Kind schulreif?
+- Wie begabt ist mein Kind, wo liegen die Stärken und Schwächen?
+- In welchen Bereichen kann ich mein Kind bis zum Schuleintritt noch fördern?
+- Wie sehen die Fähigkeiten meines Kindes verglichen mit Gleichaltrigen aus?
+- Mein Kind mag nicht malen, kann nicht stillsitzen, streitet viel, kann sich nicht lange konzentrieren, ...
+- bei Bedenken oder auffälligen Beobachtungen seitens der Eltern bzw. Erziehungsberechtigten im Hinblick auf Kompetenzbereiche
+- bei Bedenken oder auffälligen Beobachtungen seitens der Kindergartenpädagogin, der Lehrerin oder des Kinderarztes
+
 
 <br>
 ### Entwicklungsförderung
+*Die gemeinsame Arbeit mit dem Kind*
 *für Kinder von 2,5 - 8 Jahre*
 
-Entwicklungsförderung bzw. Frühförderung kann bei Ihnen zu Hause oder auch im Kindergarten, den Ihr Kind besucht, stattfinden (mit Absprache der Kindergartenleitung bzw. Pädagogin). 
+* Als Maßnahmenintervention nach der Entwicklungsdiagnostik
+* gezielte Entwicklungsförderung in jenen Bereichen, in denen Bedarf besteht bzw. ganzheitliche Entwicklungsförderung 
 
-In einer Entwicklungs- bzw. Frühförderung wird das Kind dort abgeholt, wo es momentan steht. Es wird an bereits entwickelten Fähigkeiten angesetzt und spielerisch jene Bereiche gefördert, in denen Verzögerungen bzw. Schwierigkeiten vorliegen. Das Material hierfür bringe ich einerseits selbst mit, andererseits werden aber auch (Lieblings-) Spiele der Kinder eingebaut. 
+**Entwicklungsförderung** bzw. Frühförderung wird im Kindergarten, der Kinderkrippe oder Kindergruppe an Vormittagen durchgeführt und je nach Bedarf sowohl im Einzelsetting, als auch in der Kleingruppe angeboten.
 
-Förderung spezifischer Kompetenzbereiche:
-- Konzentrations- und Merkfähigkeit 
-- Rechentraining
-- Sprachverständnis, Wortschatz
-- soziale Kompetenz
-- emotionale Kompetenz (Gefühle verstehen und ausdrücken)
-- Wahrnehmung (sensorische Integration)
-- generelle Entwicklungsverzögerung
+Besonders in der Arbeit mit Kindern ist es wesentlich, dass das Kind Vertrauen fasst und sich wohl fühlt. Während der Termine soll auch Raum sein für freies gemeinsames Spiel sowie Spaß und Freude an den Aufgaben.
 
-Wann kann spezielle Entwicklungsförderung eingesetzt werden?
+In einer Entwicklungs- bzw. Frühförderung wird das Kind dort abgeholt, wo es momentan steht. Es wird an bereits entwickelten Fähigkeiten angesetzt und spielerisch jene Bereiche gefördert, in denen Verzögerungen bzw. Schwierigkeiten vorliegen.
+
+* Förderkonzepte werden individuell auf jedes Kind abgestimmt (Einzelsetting), z.B.:
+	- Konzentrations- und Merkfähigkeit
+	- Sprachverständnis, Wortschatz
+	- Rechentraining
+	- Soziale Kompetenz
+	- Emotionale Kompetenz (Gefühle verstehen und ausdrücken, Empathie bzw. Gefühle anderer wahrnehmen und verstehen)
+	- Wahrnehmung (sensorische Integration)
+	- Vorbereitung auf den Schuleintritt
+* Entwicklungsbegleitung in der Gruppe für jene Kinder, welche im Moment vermehrt Unterstützung benötigen
+* Kinder werden ganzheitlich gefördert z.B. in der Entwicklung ihrer Ich-Kompetenzen, in der Erweiterung ihrer emotionalen und sozialen Kompetenzen, in der Stärkung ihrer Handlungskompetenzen, in der Bewältigung der Alltagsroutine etc
+
+Wann kann Entwicklungsförderung eingesetzt werden?
+- nach einer Entwicklungsdiagnostik mit Feststellung eines Förderbedarfs
+- bei Bedenken oder auffälligen Beobachtungen seitens der Eltern bzw. Erziehungsberechtigten im Hinblick auf oben genannte Kompetenzbereiche
 - bei Bedenken oder auffälligen Beobachtungen seitens der Kindergartenpädagogin, der Lehrerin oder des Kinderarztes
-- bei Bedenken oder auffälligen Beobachtungen seitens der Eltern im Hinblick auf oben genannte Kompetenzbereiche
 - in Vorbereitung auf den Schuleintritt
-- nach einer Entwicklungsdiagnostik mit Feststellung einer (Teil-) Leistungsstörung
 
-Die Dauer einer Einheit kann nicht genau geplant werden, da es mir besonders wichtig ist, auf die individuellen Bedürfnisse des Kindes einzugehen. Es soll weder über- noch unterfordert werden und keinesfalls den Spaß am spielerischen Lernen verlieren. Da die Motivation und die Leistungsfähigkeit eines Kindes nicht jeden Tag gleichermaßen ausgeprägt sind, kann die Dauer einer Einheit zwischen 30-60 Min variieren. Dementsprechend variabel ist auch das Honorar in diesen Fällen. Genauere Info entnehmen Sie bitte der Rubrik [Organisatorisches](/organisatorisches/).
 
 <br>
 ### Online Beratung
@@ -66,8 +87,20 @@ Ich möchte diese Umstände in mein Angebot integrieren und Ihnen daher auch die
 Wichtig ist mir aber in jedem Fall zu erwähnen, dass dieses Angebot kein Ersatz für die üblichen Krisen- und Journaldienste ist. Liegt bei Ihnen eine akute Krisensituation vor, ist Onlineberatung für Sie nicht geeignet! Bitte nehmen Sie in einem solchen Fall ein lokales Beratungs- und Behandlungsangebot einer fachlich qualifizierten Person oder Einrichtung in Anspruch!
 
 <br>
-### Angebote für pädagogische Fachkräfte
+### Zusätzliche Angebote für pädagogische Fachkräfte und Kindergärten
 
-- erfolgreich Elterngespräche und/oder Entwicklungsgespräche führen
-- Umgang mit speziellen Herausforderungen 
-- Supervision für Kindergarten-Teams
+Fortbildungen:
+- **Workshop**: erfolgreich Elterngespräche und/oder Entwicklungsgespräche führen
+die besten Beobachtungsmethoden und -Materialien und wie diese eingesetzt werden
+
+- **Workshop**: Umgang mit speziellen Herausforderungen bzw. herausfordernden Kindern
+Handlungsalternativen erarbeiten
+
+Supervision für Kindergarten-Teams
+- **Fallsupervision**: Umgang mit herausfordernden Kindern oder Situationen; Elternarbeit, - Gespräche
+- **Teamsupervision**: Kommunikation im Team, Teamdynamik, teaminterne Schwierigkeiten
+
+Elternbildung, Elternabende 
+Themengebiete: 
+- Umgang mit Medien (TV, Smartphone & Co)
+

@@ -16,9 +16,9 @@ title:
 ---
 
 Bildungsweg:
-- Bildungsanstalt für Kindergarten- und Früherziehungspädagogik (OÖ)
+- derzeit: Ausbildungslehrgang zur Klinischen Psychologin bei der Wiener Akademie für Klinische Psychologie (WIKIP)
 - Studium der Psychologie an der Universität Wien mit Schwerpunkt Kinder- und Jugendpsychologie, Klinische Psychologie und Kognitive Psychologie
-- derzeit: Ausbildungslehrgang zur Klinischen Psychologin bei der Wiener Akademie für Klinische Psychologie (WIKIP) 
+- Bildungsanstalt für Kindergarten- und Früherziehungspädagogik (OÖ)
 
 Fortbildungen: 
 - Autismus-Spektrum-Störung (ÖAH) 
@@ -26,8 +26,9 @@ Fortbildungen:
 - Seminarreihe zu „Psychologische Onlineberatung“ (BÖP) 
 
 Berufserfahrung:
+- Tätigkeit als Psychologin im Sonnberghof - Onkologische Rehabilitation 
 - Tätigkeit als Kindergartenpädagogin (heilpädagogischer Kindergarten und Privatkindergarten)
-- Zentrum für Entwicklungsneurologie und Sozialpädiatrie (Wr. Neustadt)
 - Österreichische Autistenhilfe (ÖAH)
+- Zentrum für Entwicklungsneurologie und Sozialpädiatrie (Wr. Neustadt)
 
 Mitglied des Berufsverbandes Österreichischer PsychologInnen
