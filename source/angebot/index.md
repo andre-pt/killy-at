@@ -18,7 +18,7 @@ Mögliche Gründe für eine psychologische Beratung können sein:
 
 <br>
 ### Elternberatung
-#### bei Erziehungs- und Entwicklungsfragen
+**bei Erziehungs- und Entwicklungsfragen**
 
 In der Erziehungsberatung geht es um alle Fragen im Zusammenleben mit Kindern. Elternschaft kann alle Beteiligten vor große Herausforderungen und Fragen stellen.
 
@@ -47,11 +47,8 @@ Eine Entwicklungsdiagnostik ist beispielsweise bei folgenden Fragestellungen hil
 
 <br>
 ### Entwicklungsförderung
-*Die gemeinsame Arbeit mit dem Kind*
+**Die gemeinsame Arbeit mit dem Kind**
 *für Kinder von 2,5 - 8 Jahre*
-
-* Als Maßnahmenintervention nach der Entwicklungsdiagnostik
-* gezielte Entwicklungsförderung in jenen Bereichen, in denen Bedarf besteht bzw. ganzheitliche Entwicklungsförderung 
 
 **Entwicklungsförderung** bzw. Frühförderung wird im Kindergarten, der Kinderkrippe oder Kindergruppe an Vormittagen durchgeführt und je nach Bedarf sowohl im Einzelsetting, als auch in der Kleingruppe angeboten.
 
@@ -88,19 +85,12 @@ Wichtig ist mir aber in jedem Fall zu erwähnen, dass dieses Angebot kein Ersatz
 
 <br>
 ### Zusätzliche Angebote für pädagogische Fachkräfte und Kindergärten
-
-Fortbildungen:
-- **Workshop**: erfolgreich Elterngespräche und/oder Entwicklungsgespräche führen
-die besten Beobachtungsmethoden und -Materialien und wie diese eingesetzt werden
-
-- **Workshop**: Umgang mit speziellen Herausforderungen bzw. herausfordernden Kindern
-Handlungsalternativen erarbeiten
-
-Supervision für Kindergarten-Teams
-- **Fallsupervision**: Umgang mit herausfordernden Kindern oder Situationen; Elternarbeit, - Gespräche
+**Supervision für Kindergarten-Teams**
+- **Fallsupervision**: Umgang mit herausfordernden Kindern oder Situationen, Elternarbeit, Elterngespräche
 - **Teamsupervision**: Kommunikation im Team, Teamdynamik, teaminterne Schwierigkeiten
 
-Elternbildung, Elternabende 
+**Elternbildung, Elternabende**
 Themengebiete: 
-- Umgang mit Medien (TV, Smartphone & Co)
-
+- Kinder vs. TV, Smartphone & Co: Wie gestalte ich den Umgang mit Medien kindgerecht? 
+- Umgang mit Stress (für Erwachsene): Stressdefinition, Stressbewältigung, Erschöpfung & Burnout
+- Und weitere Themen nach Anfrage und Absprache. 
