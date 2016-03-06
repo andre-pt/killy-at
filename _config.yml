@@ -80,6 +80,3 @@ imagemin:
   optimizationLevel: 2
   pngquant   : true
   progressive: true
-
-toc:
-  maxdepth: 4
