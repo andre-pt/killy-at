@@ -1,5 +1,5 @@
-Willkommen: /
-Angebot: "/angebot/"
-Person: "/person/"
-Organisatorisches: "/organisatorisches/"
-Kontakt: "/kontakt/"
+welcome:
+offer:
+person:
+organisational:
+contact:

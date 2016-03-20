@@ -1,0 +1,19 @@
+menu:
+	welcome: Welcome
+	welcome.url: "/en/"
+	offer: Offer
+	offer.url: "/en/angebot/"
+	person: Person
+	person.url: "/en/person/"
+	organisational: Organisational
+	organisational.url: "/en/organisatorisches/"
+	contact: Contact
+	contact.url: "/en/kontakt/"
+
+site:
+	description: this is in english description
+	other_language: Deutsch
+
+open_graph:
+	description: this is in english
+	title: this is an english title
