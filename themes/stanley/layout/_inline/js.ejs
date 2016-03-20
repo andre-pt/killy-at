@@ -1,7 +1,8 @@
 <script type='text/javascript'>//<![CDATA[
 
-// Highlight current section in menu
 $(document).ready(function() {
+
+	// Highlight current section in menu
 	var currentNav = $('.nav a[href="' + this.location.pathname + '"]').parent();
 	
 	if (currentNav.length > 0) {
@@ -10,6 +11,22 @@ $(document).ready(function() {
 	    	currentNav.parent().parent().addClass('active');
 	    }
 	}
+
+
+	//Check to see if the window is top if not then display button
+	$(window).scroll(function(){
+		if ($(this).scrollTop() > 100) {
+			$('.scrollToTop').fadeIn();
+		} else {
+			$('.scrollToTop').fadeOut();
+		}
+	});
+	
+	//Click event to scroll to top
+	$('.scrollToTop').click(function(){
+		$('html, body').animate({scrollTop : 0},500);
+		return false;
+	});	
 });
 
 //]]></script>

@@ -93,4 +93,5 @@ Wichtig ist mir aber in jedem Fall zu erwähnen, dass dieses Angebot kein Ersatz
 Themengebiete: 
 - Kinder vs. TV, Smartphone & Co: Wie gestalte ich den Umgang mit Medien kindgerecht? 
 - Umgang mit Stress (für Erwachsene): Stressdefinition, Stressbewältigung, Erschöpfung & Burnout
-- Und weitere Themen nach Anfrage und Absprache. 
+- Und weitere Themen nach Anfrage und Absprache.
+
