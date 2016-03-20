@@ -26,7 +26,7 @@
     <meta name="msapplication-TileImage" content="/img/favicons/mstile-144x144.png">
     <meta name="theme-color" content="#ffffff">
 
-    <%- open_graph() %>
+    <%- open_graph(config.open_graph) %>
 
     <title><% if (page.title){ %><%=page.title %> | <% } %><%=config.title %></title>
 

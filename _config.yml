@@ -10,6 +10,11 @@ author: Katharina Killy
 language: de-at
 timezone:
 
+open_graph:
+  title: Opengraph title
+  description: Opengraph description
+  image: /img/logo.png
+
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://test.killy.at
@@ -26,10 +31,6 @@ new_post_name: :title.md # File name of new posts
 default_layout: page
 relative_link: false
 
-# Date / Time format
-## Hexo uses Moment.js to parse and display date
-## You can customize the date format as defined in
-## http://momentjs.com/docs/#/displaying/format/
 date_format: YYYY-MM-DD
 time_format: HH:mm:ss
 
@@ -40,9 +41,6 @@ deploy:
   repo: git@github.com:andre-pt/killy-at.git
   branch: gh-pages
 
-# Extensions
-## Plugins: http://hexo.io/plugins/
-## Themes: http://hexo.io/themes/
 theme: stanley
 
 sitemap:
