@@ -11,9 +11,9 @@ menu:
 	contact.url: "/en/kontakt/"
 
 site:
-	description: this is in english description
+	description: "The psychologist and kindergarten teacher, Mag. Katharina Killy, supports parents, kids and educational professionals in challenging situations, education- and development issues. Development furtherance can be applied specifically to those areas of the childhood development, in which a developmental assessment has shown limitations."
 	other_language: Deutsch
 
 open_graph:
-	description: this is in english
+	description: "The psychologist and kindergarten teacher, Mag. Katharina Killy, supports parents, kids and educational professionals in challenging situations, education- and development issues. Development furtherance can be applied specifically to those areas of the childhood development, in which a developmental assessment has shown limitations."
 	title: this is an english title

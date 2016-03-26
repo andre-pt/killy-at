@@ -11,9 +11,9 @@ menu:
 	contact.url: "/kontakt/"
 
 site:
-	description: this is in german description
+	description: "Die Psychologin, Kindergarten- und Kleinstkindpädagogin, Mag. Katharina Killy, unterstützt Eltern, Kinder und auch pädagogisches Fachpersonal in herausfordernden Situationen, Erziehungs- und Entwicklungsfragen. Durch individuelle Entwicklungsförderung kann gezielt an jenen Bereichen des Kindes angesetzt werden, in welchen bei einer Entwicklungsdiagnostik Förderbedarf festgestellt wurde."
 	other_language: English
 
 open_graph:
-	description: this is in german
-	title: this is an german title
+	description: "Die Psychologin, Kindergarten- und Kleinstkindpädagogin, Mag. Katharina Killy, unterstützt Eltern, Kinder und auch pädagogisches Fachpersonal in herausfordernden Situationen, Erziehungs- und Entwicklungsfragen. Durch individuelle Entwicklungsförderung kann gezielt an jenen Bereichen des Kindes angesetzt werden, in welchen bei einer Entwicklungsdiagnostik Förderbedarf festgestellt wurde."
+	title: "Mag. Kathrina Killy"
