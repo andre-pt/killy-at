@@ -13,4 +13,4 @@ Dabei stehe ich Ihnen vertrauensvoll zur Seite, um gemeinsam Lösungen zu entwic
 Informieren Sie sich über mein [Angebot](/angebot/) und [kontaktieren](/kontakt/) Sie mich gerne!
 
 Ihre
-Mag. Katharina Killy
+*Mag. Katharina Killy*

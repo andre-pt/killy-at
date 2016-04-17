@@ -7,23 +7,29 @@ Als Psychologin unterliege ich aufgrund der gesetzlichen Bestimmungen, verankert
 
 ### Honorar
 
-Das Honorar für ein **Erstgespräch** für die Dauer von 30 bis 60 Minuten beträgt € 35. Das Honorar für jede **weitere Sitzung** für die Dauer von 50 Minuten beträgt € 50.
+Das Honorar für eine **Einzel- oder Paarberatung** für die Dauer von 50 Minuten beträgt € 50.
 
-Die **Entwicklungsdiagnostik** setzt sich aus 3-4 Einheiten für Diagnostik und Beobachtung, 1 Einheit zur Auswertung und schriftlichen Verfassung der Ergebnisse und wenn erwünscht einer persönlichen Rückmeldung an die Eltern zusammen. Das pauschale Honorar für die Entwicklungsdiagnostik beträgt €250.
+Die **Entwicklungsdiagnostik** setzt sich aus 3-4 Einheiten für Diagnostik und Beobachtung, 1 Einheit zur Auswertung und schriftlichen Verfassung der Ergebnisse und wenn erwünscht einer persönlichen Rückmeldung an die Eltern zusammen. Das pauschale Honorar für die Entwicklungsdiagnostik (insgesamt 5-6 Einheiten) beträgt €200.
 
-Das Honorar für die Entwicklungsförderung beträgt € 40/Einheit.
+Das Honorar für die **Entwicklungsförderung** (individuelle Arbeit mit dem Kind) beträgt € 40/Einheit. Eine Einheit mit dem Kind kann zwischen 30-45 Minuten umfassen, in Abhängigkeit von Verfassung und Motivation des Kindes.  
 
 Sollten Sie oder Ihr Kind einen vereinbarten Termin nicht wahrnehmen können, bitte ich Sie dies mindestens 24 Stunden zuvor telefonisch oder per SMS abzusagen.
 
 Die Online-Beratung wird per Antwort-E-Mail verrechnet, wobei eine erste Kontaktaufnahme kostenlos ist.  Das Honorar für eine E-Mail beträgt je nach Umfang der Fragestellung bzw. Antwortlänge zwischen € 20-50.
 
-Das Honorar für Vorträge und Workshops richtet sich grundsätzlich nach der Anzahl der teilnehmenden Personen und den individuellen Bedürfnissen des Auftraggebers die vorab geklärt werden und dann selbstverständlich gerne Berücksichtigung in einem individuellen Programm finden. Gerne gebe ich auf eine konkrete [Anfrage](/kontakt/) nähere Auskunft.
+Das Honorar für Vorträge und Workshops richtet sich grundsätzlich nach den individuellen Bedürfnissen des Auftraggebers die vorab geklärt werden und dann selbstverständlich gerne Berücksichtigung in einem individuellen Programm finden. Gerne gebe ich auf eine konkrete Anfrage nähere Auskunft. Gerne gebe ich auf eine konkrete [Anfrage](/kontakt/) nähere Auskunft.
 
 
-### Setting:
+
+### Settings:
 - Einzelberatung
 - Familien-, Paarberatung
-- Entwicklungsdiagnostik (Eltern+Kind)
+- Entwicklungsdiagnostik: Einzelsetting mit dem Kind + eventuell 1. Einheit gemeinsam mit den Eltern
 - individuelle Entwicklungsförderung für Kinder
 - Online- Beratung (E-Mail)
+- Entspannungstraining: Gruppe und Einzeltraining für Erwachsene; Gruppe für Kinder
+
+Alle Einheiten mit dem Kind können grundsätzlich in der jeweiligen Einrichtung, welche das Kind besucht (Kindergarten, Krippe, Kindergruppe…) stattfinden. Einheiten mit Erwachsenen bzw. Eltern können sowohl im Praxisraum, als auch in der Einrichtung des Kindes durchgeführt werden. 
+
+Für die Örtlichkeit der Entspannungstrainings informieren Sie sich bitte telefonisch oder per E-Mail bei mir, da diese Räumlichkeiten in Abhängigkeit von den TeilnehmerInnen wechseln. 
 

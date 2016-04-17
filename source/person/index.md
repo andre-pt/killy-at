@@ -15,18 +15,20 @@ title:
 
 ---
 
-Bildungsweg:
+Ausbildungen:
 - derzeit: Ausbildungslehrgang zur Klinischen Psychologin bei der Wiener Akademie für Klinische Psychologie (WIKIP)
 - Studium der Psychologie an der Universität Wien mit Schwerpunkt Kinder- und Jugendpsychologie, Klinische Psychologie und Kognitive Psychologie
 - Bildungsanstalt für Kindergarten- und Früherziehungspädagogik (OÖ)
 
 Fortbildungen: 
+- Biofeedback (Firma Schuhfried)
 - Autismus-Spektrum-Störung (ÖAH) 
 - Sensorische Integration (ÖAH)
 - Seminarreihe zu „Psychologische Onlineberatung“ (BÖP) 
 
 Berufserfahrung:
-- Tätigkeit als Psychologin im Sonnberghof - Onkologische Rehabilitation 
+- derzeit: Tätigkeit als Psychologin im Sonnberghof - Onkologische Rehabilitation 
+- derzeit: Mobile Kindergartenpsychologin für Privatkindergärten in Wien
 - Tätigkeit als Kindergartenpädagogin (heilpädagogischer Kindergarten und Privatkindergarten)
 - Österreichische Autistenhilfe (ÖAH)
 - Zentrum für Entwicklungsneurologie und Sozialpädiatrie (Wr. Neustadt)

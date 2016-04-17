@@ -8,27 +8,28 @@ title:
 ### Katharina Killy
 {% img person-photo-mobile /person/kk_person.jpg 250 250 Katharina Killy %}
 
-#### <br>Psychologin
-#### Kindergarten- und Kleinstkindpädagogin
+#### <br>Psycholist 
+#### Kindergartenteacher, Pedagogue 
 
-*einfühlsam, strukturiert, lösungsorientiert, intuitiv, zielstrebig, ausdauernd, emotional, neutral*
+*emphatically, structured, solution-oriented, intuitiv, determined, perserving, emotional, neutral*
 
 ---
 
-Bildungsweg:
-- derzeit: Ausbildungslehrgang zur Klinischen Psychologin bei der Wiener Akademie für Klinische Psychologie (WIKIP)
-- Studium der Psychologie an der Universität Wien mit Schwerpunkt Kinder- und Jugendpsychologie, Klinische Psychologie und Kognitive Psychologie
-- Bildungsanstalt für Kindergarten- und Früherziehungspädagogik (OÖ)
+Education:
+- at the moment: education to Clinical Psychologist at "Wiener Akademie für Klinische Psychologie" (WIKIP)
+- Study of Psychology at University of Vienna with specialisation for Child- and Youthpsychology, Clinical Psychology and Cognitive Psychology
+- Highschool for Kindergarten Pedagogy
 
-Fortbildungen: 
-- Autismus-Spektrum-Störung (ÖAH) 
-- Sensorische Integration (ÖAH)
-- Seminarreihe zu „Psychologische Onlineberatung“ (BÖP) 
+Further education: 
+- Autism-Spectrum-Disorder (ÖAH) 
+- Sensoric Integration (ÖAH)
+- Seminars about Psychological Onlineconsultation (BÖP) 
 
-Berufserfahrung:
-- Tätigkeit als Psychologin im Sonnberghof - Onkologische Rehabilitation 
-- Tätigkeit als Kindergartenpädagogin (heilpädagogischer Kindergarten und Privatkindergarten)
-- Österreichische Autistenhilfe (ÖAH)
-- Zentrum für Entwicklungsneurologie und Sozialpädiatrie (Wr. Neustadt)
+Jobs:
+- at the moment: Psychologist at "Sonnberghof" - Onkologische Rehabilitation 
+- at the moment: mobile Kindergarten-Psychologist in private Institutions for kids
+- Kindergartenteacher (heilpädagogischer Kindergarten und Privatkindergarten)
+- work with autists at "Österreichische Autistenhilfe" (ÖAH)
+- center for developmental neurology and social pediatrics (Wr. Neustadt)
 
-Mitglied des Berufsverbandes Österreichischer PsychologInnen
+Member of the Professional Association for Austrian Psychologists 
