@@ -101,7 +101,7 @@ Durch Entspannung wird der „Kopf wieder frei“, die Konzentrationsfähigkeit 
 
 Es werden Entspannungsgruppen, als auch Einzeltrainings für Erwachsene angeboten. In einer Entspannungsgruppe werden verschiedene bewährte Entspannungstechniken erprobt: Autogenes Training, Progressive Muskelrelaxation (Jacobson), Atemübungen, Achtsamkeitsübung, Imagination bzw. Phantasiereisen. Im Einzeltraining kann individuell bestimmt werden, welche Technik(en) angewandt werden sollen. 
 
-Informieren Sie sich gerne per E-Mail oder telefonisch über aktuelle Termine und Ort der Entspannungstrainings. 
+Informieren Sie sich gerne per [E-Mail oder telefonisch](/kontakt/) über aktuelle Termine und Ort der Entspannungstrainings. 
 
 
 <h4>Entspannungsgruppe für Kinder</h4>
