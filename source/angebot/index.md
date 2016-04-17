@@ -90,19 +90,21 @@ Wichtig ist aber in jedem Fall zu erwähnen, dass dieses Angebot kein Ersatz fü
 
 
 <br>
-### Entspannungstraining für Erwachsene
-*"Entspannte Eltern = entspannte Kinder"*
+### Entspannungstraining 
 
-Durch Entspannung wird der „Kopf wieder frei“, die Konzentrationsfähigkeit verbessert sich und es werden innere Ruhe, Gelassenheit sowie letztendlich Zufriedenheit hergestellt. Besonders in Phasen andauernder Belastung ist es ratsam, auf Maßnahmen der Entspannung zurückzugreifen, damit das natürliche Gleichgewicht zwischen Anspannung und Entspannung wiederhergestellt werden kann. 
+<h4>Entspannungsgruppe und Einzeltraining für Erwachsene</h4>
+<em>"Entspannte Eltern = entspannte Kinder"</em>
+
+<p>
+Durch Entspannung wird der „Kopf wieder frei“, die Konzentrationsfähigkeit verbessert sich und es werden innere Ruhe, Gelassenheit sowie letztendlich Zufriedenheit hergestellt. Besonders in Phasen andauernder Belastung ist es ratsam, auf Maßnahmen der Entspannung zurückzugreifen, damit das natürliche Gleichgewicht zwischen Anspannung und Entspannung wiederhergestellt werden kann.
+</p>
 
 Es werden Entspannungsgruppen, als auch Einzeltrainings für Erwachsene angeboten. In einer Entspannungsgruppe werden verschiedene bewährte Entspannungstechniken erprobt: Autogenes Training, Progressive Muskelrelaxation (Jacobson), Atemübungen, Achtsamkeitsübung, Imagination bzw. Phantasiereisen. Im Einzeltraining kann individuell bestimmt werden, welche Technik(en) angewandt werden sollen. 
 
 Informieren Sie sich gerne per E-Mail oder telefonisch über aktuelle Termine und Ort der Entspannungstrainings. 
 
 
-
-<br>
-### Entspannungsgruppe für Kinder
+<h4>Entspannungsgruppe für Kinder</h4>
 
 Zur Ruhe zu kommen und sich zu entspannen stellt auch für Kinder durch alltägliche Reizüberflutungen und wachsenden Ansprüchen an die Leistungsfähigkeit eine besondere Herausforderung dar. Bei Überforderung reagieren Kinder häufig mit Desinteresse, Ungeduld, Konzentrationsschwierigkeiten oder aggressivem Verhalten. Insbesondere können Entspannungsübungen auch bei psychosomatischen Beschwerden zu einer Verbesserung der Symptome führen.
 
@@ -114,7 +116,7 @@ Ziele: Steigerung der Körperwahrnehmung, Förderung der Konzentrations- und Auf
 
 
 <br>
-### Zusätzliche Angebote für pädagogische Fachkräfte und Kindergärten
+### Zusätzliche Angebote für pädagogische Fachkräfte und Institutionen
 **Supervision für Kindergarten-Teams**
 - **Fallsupervision**: Umgang mit herausfordernden Kindern oder Situationen, Elternarbeit, Elterngespräche; zur Reflexion bzw. Veränderung beruflichen Handelns und Erlebens
 - **Teamsupervision**: Kommunikation im Team, Teamdynamik, teaminterne Schwierigkeiten
