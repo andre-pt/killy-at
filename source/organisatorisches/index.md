@@ -15,9 +15,9 @@ Das Honorar für die **Entwicklungsförderung** (individuelle Arbeit mit dem Kin
 
 Sollten Sie oder Ihr Kind einen vereinbarten Termin nicht wahrnehmen können, bitte ich Sie dies mindestens 24 Stunden zuvor telefonisch oder per SMS abzusagen.
 
-Die Online-Beratung wird per Antwort-E-Mail verrechnet, wobei eine erste Kontaktaufnahme kostenlos ist.  Das Honorar für eine E-Mail beträgt je nach Umfang der Fragestellung bzw. Antwortlänge zwischen € 20-50.
+Die **Online-Beratung** wird per Antwort-E-Mail verrechnet, wobei eine erste Kontaktaufnahme kostenlos ist.  Das Honorar für eine E-Mail beträgt je nach Umfang der Fragestellung bzw. Antwortlänge zwischen € 20-50.
 
-Das Honorar für Vorträge und Workshops richtet sich grundsätzlich nach den individuellen Bedürfnissen des Auftraggebers die vorab geklärt werden und dann selbstverständlich gerne Berücksichtigung in einem individuellen Programm finden. Gerne gebe ich auf eine konkrete Anfrage nähere Auskunft. Gerne gebe ich auf eine konkrete [Anfrage](/kontakt/) nähere Auskunft.
+Das Honorar für **Vorträge und Workshops** richtet sich grundsätzlich nach den individuellen Bedürfnissen des Auftraggebers die vorab geklärt werden und dann selbstverständlich gerne Berücksichtigung in einem individuellen Programm finden. Gerne gebe ich auf eine konkrete [Anfrage](/kontakt/) nähere Auskunft.
 
 
 

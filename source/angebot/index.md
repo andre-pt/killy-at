@@ -6,9 +6,9 @@ title: Angebot
 <br>
 ### Psychologische Beratung & Begleitung
 
-In der psychologischen Beratung werden durch eine klärende sowie wertschätzende, unterstützende Interaktionsform gemeinsam neue Perspektiven entwickelt und Veränderungs- und Lösungsmöglichkeiten erarbeitet. Ziel in der psychologischen Beratung kann die Bewältigung eines Problems oder unter anderem auch die Selbstwertstärkung sein. Besonderer Wert wird dabei auf vorhandene persönliche Ressourcen und Fähigkeiten und die Identifikation dieser gelegt. 
+In der psychologischen Beratung werden durch eine klärende sowie wertschätzende und unterstützende Interaktionsform gemeinsam neue Perspektiven entwickelt und Veränderungs- und Lösungsmöglichkeiten erarbeitet. Ziel in der psychologischen Beratung kann die Bewältigung eines Problems oder auch die Selbstwertstärkung sein. Besonderer Wert wird auf vorhandene persönliche Ressourcen und Fähigkeiten und die Identifikation dieser gelegt. 
 
-Mögliche Themen für eine psychologische Beratung können sein:
+Mögliche Themen für eine psychologische Beratung können beispielsweise sein:
 - Beziehungsprobleme und familiäre Problematiken
 - Erziehungsfragen und kindliche Entwicklung
 - Berufsorientierung, Berufsplanung
@@ -22,31 +22,31 @@ Mögliche Themen für eine psychologische Beratung können sein:
 
 In der Erziehungsberatung geht es um alle Fragen im Zusammenleben mit Kindern. Elternschaft kann alle Beteiligten vor große Herausforderungen und Fragen stellen.
 
-Es wird bei der Beratung nicht festgelegt, wie Erziehung zu funktionieren hat, denn die Eltern sind selbst die Spezialisten für ihre eigenen oder anvertrauten Kinder und haben ihre ganz speziellen Fähigkeiten und Eigenschaften. Wenn Eltern jedoch Unsicherheiten in der Kindererziehung haben, im Familiensystem herausfordernde Verhältnisse vorherrschen, dann kann professionelle Unterstützung helfen Handlungsalternativen zu entwickeln und Eltern in Ihrer Erziehungskompetenz (wieder) zu stärken, Sicherheit zu erlangen und mehr Ruhe in das Familienleben zu bringen. Erziehungsberatung bedeutet in jedem Fall: Zusammenarbeit mit den Eltern!
+Es wird bei der Beratung nicht festgelegt, wie Erziehung zu funktionieren hat, sondern die Eltern sind selbst die Spezialisten für ihre eigenen oder anvertrauten Kinder und haben ihre ganz speziellen Fähigkeiten und Eigenschaften. Wenn Eltern jedoch Unsicherheiten in der Kindererziehung haben, im Familiensystem herausfordernde Verhältnisse vorherrschen, dann kann professionelle Unterstützung helfen Handlungsalternativen zu entwickeln und Eltern in Ihrer Erziehungskompetenz (wieder) zu stärken, Sicherheit zu erlangen und mehr Ruhe in das Familienleben zu bringen. **Erziehungsberatung bedeutet in jedem Fall: Zusammenarbeit mit den Eltern!**
 <br>
 - Fragen zur körperlichen, kognitiven, emotionalen und sozialen Entwicklung des Kindes
 - Familiäre Veränderungen, wie z.B. Trennung, Scheidung, Krankheit, Tod ...
-- weitere mögliche Themen: Umgang mit Grenzen setzen, Ängste (Trennungsängste), Zorn, Probleme beim Sauber werden, Selbstwertprobleme und plötzlicher Rückzug, psychosomatische Auffälligkeiten (wie z.B. Schlafstörungen, Essprobleme, Bauchschmerzen), wenig Interesse oder Ausdauer bezüglich der Spielangebote, häufiges Zusammenstoßen mit anderen Kindern oder Möbel bzw. unkoordiniert sein...
+- weitere mögliche Themen: Umgang mit Grenzen setzen, Ängste (Trennungsängste), Zorn, Probleme beim Sauber werden, Selbstwertprobleme und plötzlicher Rückzug, psychosomatische Auffälligkeiten (wie z.B. Schlafstörungen, Essprobleme, Bauchschmerzen), wenig Interesse oder Ausdauer bezüglich der Spielangebote, häufiges Zusammenstoßen mit anderen Kindern oder Möbel bzw. Koordinationsprobleme...
 
 <br>
 ### Entwicklungsdiagnostik
 
-Im Rahmen einer Entwicklungsdiagnostik kann der aktuelle Entwicklungsstand von **3- bis 6-jährigen** Kindern festgestellt werden. Das Kind löst dabei spielerisch Aufgaben und ergänzend werden die Eltern zu relevanten Bereichen befragt. Bei Bedarf und Einverständnis wird auch das weitere Umfeld (Kindergarten, weitere TherapeutInnen ....) in den Diagnoseprozess miteinbezogen (etwa durch Ausfüllen eines Fragebogens oder (Telefon-)Gespräche). Es werden einerseits standardisierte psychologische Untersuchungsverfahren eingesetzt, als auch das Verhalten und die Interaktion des Kindes mit seiner Umwelt beobachtet. 
+Im Rahmen einer Entwicklungsdiagnostik kann der aktuelle Entwicklungsstand von **3- bis 6-jährigen** Kindern festgestellt werden. Bei einer Diagnostik löst das Kind spielerisch unterschiedliche Aufgaben und ergänzend dazu werden die Eltern zu relevanten Themenbereichen befragt. Bei Bedarf und Einverständnis wird auch das weitere Umfeld (Kindergarten, weitere TherapeutInnen ....) in den Diagnoseprozess miteinbezogen (etwa durch Ausfüllen eines Fragebogens oder (Telefon-)Gespräche). Es werden einerseits standardisierte psychologische Untersuchungsverfahren eingesetzt und andererseits auch das Verhalten und die Interaktion des Kindes mit seiner Umwelt beobachtet. 
 
-Aus den Aufgabenergebnissen, der Verhaltensbeobachtung und einem eingehenden Gespräch mit dem Kind zeigt sich, wo sich das Kind momentan hinsichtlich der kognitiven, emotional-sozialen und körperlichen Entwicklung befindet und welche Stärken und/oder Schwächen vorliegen. Basierend auf diesem Entwicklungsprofil können bei Bedarf gezielte Maßnahmen zur Entwicklungsförderung empfohlen und durchgeführt werden.
+Aus den Aufgabenergebnissen, der Verhaltensbeobachtung und einem eingehenden Gespräch mit dem Kind wird ersichtlich, wo sich das Kind momentan hinsichtlich der kognitiven, emotional-sozialen und körperlichen Entwicklung befindet und welche Stärken und/oder Schwächen vorliegen. Basierend auf diesem Entwicklungsprofil können bei Bedarf gezielte Maßnahmen zur Entwicklungsförderung aufgezeigt und durchgeführt werden.
 
 Eine Entwicklungsdiagnostik ist beispielsweise bei folgenden Fragestellungen hilfreich:
 - Ist mein Kind schulreif?
-- Wie begabt ist mein Kind, wo liegen die Stärken und Schwächen?
+- Wie begabt ist mein Kind, wo liegen seine/ihre Stärken und Schwächen?
 - In welchen Bereichen kann ich mein Kind bis zum Schuleintritt noch fördern?
-- Wie sehen die Fähigkeiten meines Kindes verglichen mit Gleichaltrigen aus?
-- Mein Kind mag nicht malen, kann nicht stillsitzen, streitet viel, kann sich nicht lange konzentrieren, ...
+- Wie sehen die Fähigkeiten meines Kindes im Vergleich zu Gleichaltrigen aus?
+- Mein Kind malt nicht gerne, hat oft Probleme sich lange zu konzentrieren...
 - bei Bedenken oder auffälligen Beobachtungen seitens der Eltern bzw. Erziehungsberechtigten, der KindergartenpädagogIn, der LehrerIn oder des Kinderarztes/ der Kinderärztin im Hinblick auf Kompetenzbereiche, wie z.B.:
 	- Wahrnehmungsstörungen, Teilleistungsschwächen
 	- Auffälligkeiten in der Sprache
-	- Rechenschwäche, logisch Schlussfolgerndes Denken
+	- Rechenschwäche, logisch-schlussfolgerndes Denken
 	- Entwicklungsverzögerungen
-	- Aggressivem Verhalten
+	- Aggressives Verhalten
 	- Schlafprobleme 
 	- Aufmerksamkeits- und Konzentrationsstörungen
 
@@ -57,9 +57,9 @@ Eine Entwicklungsdiagnostik ist beispielsweise bei folgenden Fragestellungen hil
 **Die gemeinsame Arbeit mit dem Kind**
 *für Kinder von 2,5 - 8 Jahre*
 
-Entwicklungsförderung bzw. Frühförderung kann als Maßnahme nach einer Entwicklungsdiagnostik eingesetzt werden. Die gezielte und individuelle Förderung kann im Kindergarten, der Kinderkrippe oder Kindergruppe durchgeführt und je nach Bedarf sowohl im Einzelsetting, als auch in der Kleingruppe angeboten werden.
+Entwicklungsförderung bzw. Frühförderung kann als Maßnahme nach einer Entwicklungsdiagnostik herangezogen werden. Die gezielte und individuelle Förderung kann im Kindergarten, der Kinderkrippe oder der Kindergruppe durchgeführt und je nach Bedarf sowohl im Einzelsetting, als auch in der Kleingruppe angeboten werden.
 
-Besonders in der Arbeit mit Kindern ist es wesentlich, dass das Kind Vertrauen fasst und sich wohl fühlt. Während der Termine soll auch Raum sein für freies gemeinsames Spiel sowie Spaß und Freude an den Aufgaben.
+Besonders in der Arbeit mit Kindern ist es wesentlich, dass das Kind Vertrauen fasst und sich wohlfühlt. Zusätzlich soll genügend Raum für freies und gemeinsames Spiel, sowie Spaß und Freude an den Aufgaben sein. 
 
 In einer Entwicklungs- bzw. Frühförderung wird das Kind dort abgeholt, wo es momentan steht. Es wird an bereits entwickelten Fähigkeiten angesetzt und spielerisch jene Bereiche gefördert, in denen Verzögerungen bzw. Schwierigkeiten vorliegen.
 
@@ -80,11 +80,11 @@ In einer Entwicklungs- bzw. Frühförderung wird das Kind dort abgeholt, wo es m
 <br>
 ### Online Beratung
 
-Wir leben in einer Zeit in der durch das Internet räumliche Grenzen stark ausgeweitet wurden. Viele Menschen haben wenig (Frei-) Zeit und Möglichkeiten eine Beratung persönlich aufzusuchen. Aufgrund räumlicher Distanz, wenig Flexibilität bzgl. der Kinderbetreuung und anderen Gründen, kann es schwierig sein, einen Termin tagsüber einplanen zu können. 
+Heutzutage leben in einer Zeit in der durch das Internet räumliche Grenzen stark ausgeweitet wurden. Viele Menschen haben wenig (Frei-) Zeit und Möglichkeiten eine Beratung persönlich aufzusuchen. Aufgrund räumlicher Distanz, wenig Flexibilität bzgl. der Kinderbetreuung und anderen Gründen, kann es oftmals schwierig sein, einen Termin tagsüber einplanen zu können. 
 
 Ich möchte diese Umstände in mein Angebot integrieren und Ihnen daher auch die Möglichkeit anbieten, psychologische/ pädagogische Beratung per E-Mail in Anspruch zu nehmen. Die Beratung per E-Mail wird pro Antwort verrechnet, wobei eine erste Kontaktaufnahme natürlich kostenlos ist.  
 
-Wichtig ist aber in jedem Fall zu erwähnen, dass dieses Angebot kein Ersatz für die üblichen Krisen- und Journaldienste ist. Liegt bei Ihnen eine akute Krisensituation vor, ist Onlineberatung für Sie nicht geeignet! Bitte nehmen Sie in einem solchen Fall ein lokales Beratungs- und Behandlungsangebot einer fachlich qualifizierten Person oder Einrichtung in Anspruch!
+Wichtig ist aber in jedem Fall zu erwähnen, dass dieses Angebot kein Ersatz für die üblichen Krisen- und Journaldienste ist. Liegt bei Ihnen eine akute Krisensituation vor, ist Onlineberatung für Sie nicht geeignet! Bitte nehmen Sie, in einem solchen Fall, ein lokales Beratungs- und Behandlungsangebot einer fachlich qualifizierten Person oder Einrichtung in Anspruch!
 
 
 
@@ -100,16 +100,16 @@ Durch Entspannung wird der „Kopf wieder frei“, die Konzentrationsfähigkeit 
 
 Es werden Entspannungsgruppen, als auch Einzeltrainings für Erwachsene angeboten. In einer Entspannungsgruppe werden verschiedene bewährte Entspannungstechniken erprobt: Autogenes Training, Progressive Muskelrelaxation (Jacobson), Atemübungen, Achtsamkeitsübung, Imagination bzw. Phantasiereisen. Im Einzeltraining kann individuell bestimmt werden, welche Technik(en) angewandt werden sollen. 
 
-Informieren Sie sich gerne per [E-Mail oder telefonisch](/kontakt/) über aktuelle Termine und Ort der Entspannungstrainings. 
+Informieren Sie sich gerne per [E-Mail oder telefonisch](/kontakt/) über aktuelle Termine und Plätze, wo ein solches Entspannungstraining stattfindet.  
 
 <br>
 <h4>Entspannungsgruppe für Kinder</h4>
 
-Zur Ruhe zu kommen und sich zu entspannen stellt auch für Kinder durch alltägliche Reizüberflutungen und wachsenden Ansprüchen an die Leistungsfähigkeit eine besondere Herausforderung dar. Bei Überforderung reagieren Kinder häufig mit Desinteresse, Ungeduld, Konzentrationsschwierigkeiten oder aggressivem Verhalten. Insbesondere können Entspannungsübungen auch bei psychosomatischen Beschwerden zu einer Verbesserung der Symptome führen.
+Zur Ruhe zu kommen und sich zu entspannen stellt auch für Kinder durch alltägliche Reizüberflutungen und den wachsenden Ansprüchen an die Leistungsfähigkeit eine besondere Herausforderung dar. Bei Überforderung reagieren Kinder häufig mit Desinteresse, Ungeduld, Konzentrationsschwierigkeiten oder aggressivem Verhalten. Insbesondere können Entspannungsübungen auch bei psychosomatischen Beschwerden zu einer Verbesserung der Symptome führen.
 
-Für Kinder zwischen 4-10 Jahren 
+Die Entspannungsgruppe ist für Kinder zwischen 4-10 Jahren. 
 
-Ziele: Steigerung der Körperwahrnehmung, Förderung der Konzentrations- und Aufnahmefähigkeit, Erlernen von Entspannungsübungen für den Alltag
+Ziele sind beispielsweise: Steigerung der Körperwahrnehmung, Förderung der Konzentrations- und Aufnahmefähigkeit, Erlernen von Entspannungsübungen für den Alltag.
 
 
 
