@@ -9,7 +9,7 @@ Als Psychologin unterliege ich aufgrund der gesetzlichen Bestimmungen, verankert
 
 Das Honorar für eine **Einzel- oder Paarberatung** für die Dauer von 50 Minuten beträgt € 50.
 
-Die **Entwicklungsdiagnostik** setzt sich aus 3-4 Einheiten für Diagnostik und Beobachtung, 1 Einheit zur Auswertung und schriftlichen Verfassung der Ergebnisse und wenn erwünscht einer persönlichen Rückmeldung an die Eltern zusammen. Das pauschale Honorar für die Entwicklungsdiagnostik (insgesamt 5-6 Einheiten) beträgt €200.
+Die **Entwicklungsdiagnostik** setzt sich aus 3-4 Einheiten für Diagnostik und Beobachtung, 1 Einheit zur Auswertung und schriftlichen Verfassung der Ergebnisse und wenn erwünscht einer persönlichen Rückmeldung an die Eltern zusammen. Das pauschale Honorar für die Entwicklungsdiagnostik (insgesamt 5-6 Einheiten) beträgt €250.
 
 Das Honorar für die **Entwicklungsförderung** (individuelle Arbeit mit dem Kind) beträgt € 40/Einheit. Eine Einheit mit dem Kind kann zwischen 30-45 Minuten umfassen, in Abhängigkeit von Verfassung und Motivation des Kindes.  
 
@@ -19,8 +19,9 @@ Die **Online-Beratung** wird per Antwort-E-Mail verrechnet, wobei eine erste Kon
 
 Das Honorar für **Vorträge und Workshops** richtet sich grundsätzlich nach den individuellen Bedürfnissen des Auftraggebers die vorab geklärt werden und dann selbstverständlich gerne Berücksichtigung in einem individuellen Programm finden. Gerne gebe ich auf eine konkrete [Anfrage](/kontakt/) nähere Auskunft.
 
+*Sozialtarife sind nach Absprache und Abhängig vom Einkommen möglich.*
 
-
+<br>
 ### Settings:
 - Einzelberatung
 - Familien-, Paarberatung
@@ -32,4 +33,3 @@ Das Honorar für **Vorträge und Workshops** richtet sich grundsätzlich nach de
 Alle Einheiten mit dem Kind können grundsätzlich in der jeweiligen Einrichtung, welche das Kind besucht (Kindergarten, Krippe, Kindergruppe…) stattfinden. Einheiten mit Erwachsenen bzw. Eltern können sowohl im Praxisraum, als auch in der Einrichtung des Kindes durchgeführt werden. 
 
 Für die Örtlichkeit der Entspannungstrainings informieren Sie sich bitte telefonisch oder per E-Mail bei mir, da diese Räumlichkeiten in Abhängigkeit von den TeilnehmerInnen wechseln. 
-
