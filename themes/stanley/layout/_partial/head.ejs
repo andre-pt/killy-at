@@ -27,6 +27,9 @@
     <meta name="msapplication-TileImage" content="/img/favicons/mstile-144x144.png">
     <meta name="theme-color" content="#ffffff">
 
+    <link rel="alternate" href="<%=config.url %>/en/" hreflang="en" />
+    <link rel="alternate" href="<%=config.url %>/" hreflang="de" />
+
     <%- open_graph({description: __('open_graph.description'),
                     title: __('open_graph.title'),
                     image: config.open_graph.image}) %>

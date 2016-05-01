@@ -1,3 +1,3 @@
-{% img person-photo /home.png 210  %}
+{% img photo-right /home.png 210  %}
 
-coming soon
+# Coming soon

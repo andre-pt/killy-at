@@ -1,15 +1,14 @@
-title: 
+title: Person
 ---
 
-{% img person-photo /person/kk_person.jpg 307 307 Katharina Killy %}
-# Person
+{% img "photo-right person-photo" /person/kk_person.jpg 307 307 Katharina Killy %}
 
 #### Mag.rer.nat.
 ### Katharina Killy
-{% img person-photo-mobile /person/kk_person.jpg 250 250 Katharina Killy %}
+{% img photo-right-mobile /person/kk_person.jpg 250 250 Katharina Killy %}
 
-#### <br>Psycholist 
-#### Kindergartenteacher, Pedagogue 
+#### <br>Psychologist 
+#### Kindergarten Teacher, Pedagogue 
 
 *emphatically, structured, solution-oriented, intuitiv, determined, perserving, emotional, neutral*
 
