@@ -1,4 +1,5 @@
 title: Impressum
+sitemap: false
 ---
 
 Verantwortlich für den Inhalt:
