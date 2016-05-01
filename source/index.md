@@ -1,4 +1,4 @@
-{% img person-photo /home.png 210  %}
+{% img person-photo /home.png 210 "'Mag. Katharina Killy - Psychologin, Kindergarten- und Kleinstkindpädagogin'" "'Psychologin, Kindergarten- und Kleinstkindpädagogin'" %}
 
 {% blockquote Albert Einstein %}
 Man muss die Welt nicht verstehen, 

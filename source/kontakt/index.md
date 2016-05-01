@@ -6,4 +6,4 @@ title: Kontakt
 <span class="glyphicon glyphicon-globe" aria-hidden="true"></span>&nbsp;&nbsp;<http://www.killy.at/>
 <br>
 
-<div class="row"><div class="col-sm-6"><img class="img-responsive pic-with-margins" src="workplace.jpg"></div><div class="col-sm-6"><img class="img-responsive pic-with-margins" src="kindergarten.jpg"></div></div>
+<div class="row"><div class="col-sm-6"><img class="img-responsive pic-with-margins" src="workplace.jpg" alt="Praxis in Wien"></div><div class="col-sm-6"><img class="img-responsive pic-with-margins" src="kindergarten.jpg" alt="Kindergartenpsychologin"></div></div>
