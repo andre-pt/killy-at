@@ -4,7 +4,7 @@ title: Angebot
 <!-- toc -->
 
 <br>
-### Psychologische Beratung & Begleitung
+## Psychologische Beratung & Begleitung
 
 In der psychologischen Beratung werden durch eine klärende sowie wertschätzende und unterstützende Interaktionsform gemeinsam neue Perspektiven entwickelt und Veränderungs- und Lösungsmöglichkeiten erarbeitet. Ziel in der psychologischen Beratung kann die Bewältigung eines Problems oder auch die Selbstwertstärkung sein. Besonderer Wert wird auf vorhandene persönliche Ressourcen und Fähigkeiten und die Identifikation dieser gelegt. 
 
@@ -16,8 +16,9 @@ Mögliche Themen für eine psychologische Beratung können beispielsweise sein:
 - Persönlichkeitsentwicklung
 - Klärung persönlicher Fragen
 
-<br>
-### Elternberatung
+
+
+## Elternberatung
 **bei Erziehungs- und Entwicklungsfragen**
 
 In der Erziehungsberatung geht es um alle Fragen im Zusammenleben mit Kindern. Elternschaft kann alle Beteiligten vor große Herausforderungen und Fragen stellen.
@@ -28,8 +29,9 @@ Es wird bei der Beratung nicht festgelegt, wie Erziehung zu funktionieren hat, s
 - Familiäre Veränderungen, wie z.B. Trennung, Scheidung, Krankheit, Tod ...
 - weitere mögliche Themen: Umgang mit Grenzen setzen, Ängste (Trennungsängste), Zorn, Probleme beim Sauber werden, Selbstwertprobleme und plötzlicher Rückzug, psychosomatische Auffälligkeiten (wie z.B. Schlafstörungen, Essprobleme, Bauchschmerzen), wenig Interesse oder Ausdauer bezüglich der Spielangebote, häufiges Zusammenstoßen mit anderen Kindern oder Möbel bzw. Koordinationsprobleme...
 
-<br>
-### Entwicklungsdiagnostik
+
+
+## Entwicklungsdiagnostik
 
 Im Rahmen einer Entwicklungsdiagnostik kann der aktuelle Entwicklungsstand von **3- bis 6-jährigen** Kindern festgestellt werden. Bei einer Diagnostik löst das Kind spielerisch unterschiedliche Aufgaben und ergänzend dazu werden die Eltern zu relevanten Themenbereichen befragt. Bei Bedarf und Einverständnis wird auch das weitere Umfeld (Kindergarten, weitere TherapeutInnen ....) in den Diagnoseprozess miteinbezogen (etwa durch Ausfüllen eines Fragebogens oder (Telefon-)Gespräche). Es werden einerseits standardisierte psychologische Untersuchungsverfahren eingesetzt und andererseits auch das Verhalten und die Interaktion des Kindes mit seiner Umwelt beobachtet. 
 
@@ -52,8 +54,7 @@ Eine Entwicklungsdiagnostik ist beispielsweise bei folgenden Fragestellungen hil
 
 
 
-<br>
-### Entwicklungsförderung
+## Entwicklungsförderung
 **Die gemeinsame Arbeit mit dem Kind**
 *für Kinder von 2,5 - 8 Jahre*
 
@@ -76,9 +77,7 @@ In einer Entwicklungs- bzw. Frühförderung wird das Kind dort abgeholt, wo es m
 
 
 
-
-<br>
-### Online Beratung
+## Online Beratung
 
 Heutzutage leben in einer Zeit in der durch das Internet räumliche Grenzen stark ausgeweitet wurden. Viele Menschen haben wenig (Frei-) Zeit und Möglichkeiten eine Beratung persönlich aufzusuchen. Aufgrund räumlicher Distanz, wenig Flexibilität bzgl. der Kinderbetreuung und anderen Gründen, kann es oftmals schwierig sein, einen Termin tagsüber einplanen zu können. 
 
@@ -88,9 +87,7 @@ Wichtig ist aber in jedem Fall zu erwähnen, dass dieses Angebot kein Ersatz fü
 
 
 
-
-<br>
-### Entspannungstraining 
+## Entspannungstraining 
 
 <h4>Entspannungsgruppe und Einzeltraining für Erwachsene</h4>
 
@@ -112,10 +109,7 @@ Die Entspannungsgruppe ist für Kinder zwischen 4-10 Jahren.
 Ziele sind beispielsweise: Steigerung der Körperwahrnehmung, Förderung der Konzentrations- und Aufnahmefähigkeit, Erlernen von Entspannungsübungen für den Alltag.
 
 
-
-
-<br>
-### Zusätzliche Angebote für pädagogische Fachkräfte und Institutionen
+## Zusätzliche Angebote für pädagogische Fachkräfte und Institutionen
 **Supervision für Kindergarten-Teams**
 - **Fallsupervision**: Umgang mit herausfordernden Kindern oder Situationen, Elternarbeit, Elterngespräche; zur Reflexion bzw. Veränderung beruflichen Handelns und Erlebens
 - **Teamsupervision**: Kommunikation im Team, Teamdynamik, teaminterne Schwierigkeiten

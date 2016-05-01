@@ -9,11 +9,11 @@ Mobil: +43 (0) 660 5489927
 e-mail: <katharina@killy.at>
 <http://www.killy.at/>
 
-### Rechtliche Hinweise:
+## Rechtliche Hinweise:
 
 Die auf dieser Website verwendeten Texte und Fotos dienen lediglich zur persönlichen Information. Jede weitere Verwendung – insbesondere gewerbliche Nutzung – ist ohne entsprechende Zustimmung untersagt. Für angeführte Links kann trotz entsprechend sorgfältiger Recherche keine Haftung übernommen werden.
 
-### Google Analytics:
+## Google Analytics:
 
 Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. („Google“). Google Analytics verwendet sog. „Cookies“, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Im Falle der Aktivierung der IP-Anonymisierung auf dieser Webseite, wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt.
 
