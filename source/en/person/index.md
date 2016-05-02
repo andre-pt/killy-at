@@ -1,11 +1,11 @@
 title: Person
 ---
 
-{% img "photo-right person-photo" /person/kk_person.jpg 307 307 Katharina Killy %}
+{% img "photo-right person-photo" /person/kk_person.jpg 307 307 "'Mag. Katharina Killy'" "'Psychologist, Kindergarten teacher and Pedagogue'" %}
 
 #### Mag.rer.nat.
 ### Katharina Killy
-{% img photo-right-mobile /person/kk_person.jpg 250 250 Katharina Killy %}
+{% img photo-right-mobile /person/kk_person.jpg 250 250 "'Mag. Katharina Killy'" "'Psychologist, Kindergarten teacher and Pedagogue'" %}
 
 #### <br>Psychologist 
 #### Kindergarten Teacher, Pedagogue 
