@@ -18,7 +18,7 @@ Von kleinen Lügen und großen Lasten... Wie sage ich es am besten? Womit soll i
 - **4 Werte die Kinder ein Leben lang tragen**
 Jesper Juul, ein moderner Pädagoge und Familientherapeut, beschreibt vier Werte als tragfähige Säulen für eine gute Entwicklung von Kindern wie von Familie: Gleichwürdigkeit, Integrität, Authentizität, Verantwortung. In diesem Vortrag können eigenes Erziehungsverhalten und Werte reflektiert und erweitert werden. 
 
-## Für Eltern und pädagogische Fachkräfte
+## Für alle interessierten Erwachsenen
 
 - **Stress lass nach!**
 „Mir wird alles zu viel!“ „Ich weiß gar nicht, wo ich anfangen soll.“ „Ich habe keine Zeit für …“ Kommen Ihnen diese oder ähnliche Gedanken bekannt vor? Es fällt oft schwer Grenzen zu ziehen, „nein“ zu sagen und Selbstfürsorge zu übernehmen. In diesem Vortrag wird genau auf diese Dinge eingegangen: Tipps und Tricks zur Stressbewältigung, Information zur Burnout-Prävention und das Bewusstsein und Wahren der eigenen Grenzen. 
