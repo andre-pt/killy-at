@@ -4,21 +4,25 @@ title: Angebot
 <!-- toc -->
 
 <br>
-## Psychologische Beratung & Begleitung
+### Psychologische Beratung & Begleitung
 
 In der psychologischen Beratung werden durch eine klärende sowie wertschätzende und unterstützende Interaktionsform gemeinsam neue Perspektiven entwickelt und Veränderungs- und Lösungsmöglichkeiten erarbeitet. Ziel in der psychologischen Beratung kann die Bewältigung eines Problems oder auch die Selbstwertstärkung sein. Besonderer Wert wird auf vorhandene persönliche Ressourcen und Fähigkeiten und die Identifikation dieser gelegt. 
 
 Mögliche Themen für eine psychologische Beratung können beispielsweise sein:
-- Beziehungsprobleme und familiäre Problematiken
-- Erziehungsfragen und kindliche Entwicklung
-- Berufsorientierung, Berufsplanung
+- Klärung persönlicher Fragen
+- Stressbewältigung
+- Work-Life-Balance
+- Burnout-Prävention
+- Achtsamkeit
 - Selbstwertstärkung
 - Persönlichkeitsentwicklung
-- Klärung persönlicher Fragen
+- Beziehungsprobleme und familiäre Problematiken
+- Berufsorientierung, Berufsplanung
 
 
 
-## Elternberatung
+<br>
+### Elternberatung
 **bei Erziehungs- und Entwicklungsfragen**
 
 In der Erziehungsberatung geht es um alle Fragen im Zusammenleben mit Kindern. Elternschaft kann alle Beteiligten vor große Herausforderungen und Fragen stellen.
@@ -29,9 +33,8 @@ Es wird bei der Beratung nicht festgelegt, wie Erziehung zu funktionieren hat, s
 - Familiäre Veränderungen, wie z.B. Trennung, Scheidung, Krankheit, Tod ...
 - weitere mögliche Themen: Umgang mit Grenzen setzen, Ängste (Trennungsängste), Zorn, Probleme beim Sauber werden, Selbstwertprobleme und plötzlicher Rückzug, psychosomatische Auffälligkeiten (wie z.B. Schlafstörungen, Essprobleme, Bauchschmerzen), wenig Interesse oder Ausdauer bezüglich der Spielangebote, häufiges Zusammenstoßen mit anderen Kindern oder Möbel bzw. Koordinationsprobleme...
 
-
-
-## Entwicklungsdiagnostik
+<br>
+### Entwicklungsdiagnostik
 
 Im Rahmen einer Entwicklungsdiagnostik kann der aktuelle Entwicklungsstand von **3- bis 6-jährigen** Kindern festgestellt werden. Bei einer Diagnostik löst das Kind spielerisch unterschiedliche Aufgaben und ergänzend dazu werden die Eltern zu relevanten Themenbereichen befragt. Bei Bedarf und Einverständnis wird auch das weitere Umfeld (Kindergarten, weitere TherapeutInnen ....) in den Diagnoseprozess miteinbezogen (etwa durch Ausfüllen eines Fragebogens oder (Telefon-)Gespräche). Es werden einerseits standardisierte psychologische Untersuchungsverfahren eingesetzt und andererseits auch das Verhalten und die Interaktion des Kindes mit seiner Umwelt beobachtet. 
 
@@ -42,7 +45,7 @@ Eine Entwicklungsdiagnostik ist beispielsweise bei folgenden Fragestellungen hil
 - Wie begabt ist mein Kind, wo liegen seine/ihre Stärken und Schwächen?
 - In welchen Bereichen kann ich mein Kind bis zum Schuleintritt noch fördern?
 - Wie sehen die Fähigkeiten meines Kindes im Vergleich zu Gleichaltrigen aus?
-- Mein Kind malt nicht gerne, hat oft Probleme sich lange zu konzentrieren...
+- Mein Kind hat oft Probleme sich lange zu konzentrieren oder sich länger mit einem Spiel zu beschäftigen.
 - bei Bedenken oder auffälligen Beobachtungen seitens der Eltern bzw. Erziehungsberechtigten, der KindergartenpädagogIn, der LehrerIn oder des Kinderarztes/ der Kinderärztin im Hinblick auf Kompetenzbereiche, wie z.B.:
 	- Wahrnehmungsstörungen, Teilleistungsschwächen
 	- Auffälligkeiten in der Sprache
@@ -54,40 +57,53 @@ Eine Entwicklungsdiagnostik ist beispielsweise bei folgenden Fragestellungen hil
 
 
 
-## Entwicklungsförderung
+<br>
+### Entwicklungsförderung
 **Die gemeinsame Arbeit mit dem Kind**
 *für Kinder von 2,5 - 8 Jahre*
 
-Entwicklungsförderung bzw. Frühförderung kann als Maßnahme nach einer Entwicklungsdiagnostik herangezogen werden. Die gezielte und individuelle Förderung kann im Kindergarten, der Kinderkrippe oder der Kindergruppe durchgeführt und je nach Bedarf sowohl im Einzelsetting, als auch in der Kleingruppe angeboten werden.
+Entwicklungsförderung bzw. spieltherapeutische Behandlung kann als Maßnahme nach einer Entwicklungsdiagnostik oder gezielter Indikation herangezogen werden. Die gezielte und individuelle Förderung kann in der Betreuungseinrichtung durchgeführt oder auch im Praxisraum in Begleitung der Eltern angeboten werden.
 
 Besonders in der Arbeit mit Kindern ist es wesentlich, dass das Kind Vertrauen fasst und sich wohlfühlt. Zusätzlich soll genügend Raum für freies und gemeinsames Spiel, sowie Spaß und Freude an den Aufgaben sein. 
 
-In einer Entwicklungs- bzw. Frühförderung wird das Kind dort abgeholt, wo es momentan steht. Es wird an bereits entwickelten Fähigkeiten angesetzt und spielerisch jene Bereiche gefördert, in denen Verzögerungen bzw. Schwierigkeiten vorliegen.
+Im spieltherapeutischen Behandlungssetting wird das Kind dort abgeholt, wo es momentan steht. Dabei wird an bereits entwickelten Fähigkeiten angesetzt und spielerisch jene Bereiche gefördert, in denen Defizite oder Schwierigkeiten vorliegen, als auch individuelle Stärken gefördert. 
 
 * Förderkonzepte werden individuell auf jedes Kind abgestimmt (Einzelsetting) und umfassen z.B.:
-	- Konzentrations- und Merkfähigkeit
-	- Sprachverständnis, Wortschatz
-	- Rechentraining
-	- Soziale Kompetenz
-	- Emotionale Kompetenz (Gefühle verstehen und ausdrücken, Empathie bzw. Gefühle anderer wahrnehmen und verstehen)
-	- Wahrnehmung (sensorische Integration)
-	- Vorbereitung auf den Schuleintritt
+- Lern-/Motivation, Emotion
+- Konzentration und Aufmerksamkeit
+- Merkfähigkeit
+- Sprache (Sprachverständnis, Wortschatz)
+- Rechentraining
+- Entwicklungsstörungen- bzw. verzögerungen(Teilleistungsschwächen, Wahrnehmungsstörungen)
+- Vorbereitung auf den Schuleintritt
+- Soziale Kompetenz
+- Emotionale Kompetenz (Gefühle verstehen und ausdrücken, Empathie bzw. Gefühle anderer wahrnehmen und verstehen)
+- Selbstvertrauen, Selbstwertgefühl, Ich-Entwicklung bzw. Umgang mit Gefühlen und Gedanken
+- Stressbewältigung, Angst, Krisen, Bewältigung von belastenden Lebensereignissen (z.B. traumatische Erfahrungen) und Dauerbelastungen (z.B. chronische Erkrankungen), Wechsel der Lebenslage (z.B. Scheidung, Trennung, Tod),
+- Neue Bewältigungsformen in Stress– und Problemsituationen vermitteln
+- Stabilisierung der Eltern-Kind-Beziehung
+
 * Entwicklungsbegleitung in der Gruppe für jene Kinder, welche im Moment vermehrt Unterstützung benötigen
 * Kinder werden ganzheitlich gefördert z.B. in der Entwicklung ihrer Ich-Kompetenzen, in der Erweiterung ihrer emotionalen und sozialen Kompetenzen, in der Stärkung ihrer Handlungskompetenzen, in der Bewältigung der Alltagsroutine etc.
 
 
 
-## Online Beratung
+
+<br>
+### Online Beratung
 
 Heutzutage leben in einer Zeit in der durch das Internet räumliche Grenzen stark ausgeweitet wurden. Viele Menschen haben wenig (Frei-) Zeit und Möglichkeiten eine Beratung persönlich aufzusuchen. Aufgrund räumlicher Distanz, wenig Flexibilität bzgl. der Kinderbetreuung und anderen Gründen, kann es oftmals schwierig sein, einen Termin tagsüber einplanen zu können. 
 
-Ich möchte diese Umstände in mein Angebot integrieren und Ihnen daher auch die Möglichkeit anbieten, psychologische/ pädagogische Beratung per E-Mail in Anspruch zu nehmen. Die Beratung per E-Mail wird pro Antwort verrechnet, wobei eine erste Kontaktaufnahme natürlich kostenlos ist.  
+Ich möchte diese Umstände in mein Angebot integrieren und Ihnen daher auch die Möglichkeit anbieten, psychologische/ pädagogische Beratung per E-Mail oder telefonisch in Anspruch zu nehmen. 
+Die Beratung per E-Mail wird pro Antwort verrechnet, wobei eine erste Kontaktaufnahme natürlich kostenlos ist.  Für die telefonische Beratung wird in einem kurzen Ersttelefonat ein Termin für die 50 minütige Einheit vereinbart.
 
 Wichtig ist aber in jedem Fall zu erwähnen, dass dieses Angebot kein Ersatz für die üblichen Krisen- und Journaldienste ist. Liegt bei Ihnen eine akute Krisensituation vor, ist Onlineberatung für Sie nicht geeignet! Bitte nehmen Sie, in einem solchen Fall, ein lokales Beratungs- und Behandlungsangebot einer fachlich qualifizierten Person oder Einrichtung in Anspruch!
 
 
 
-## Entspannungstraining 
+
+<br>
+### Entspannungstraining 
 
 <h4>Entspannungsgruppe und Einzeltraining für Erwachsene</h4>
 
@@ -109,17 +125,75 @@ Die Entspannungsgruppe ist für Kinder zwischen 4-10 Jahren.
 Ziele sind beispielsweise: Steigerung der Körperwahrnehmung, Förderung der Konzentrations- und Aufnahmefähigkeit, Erlernen von Entspannungsübungen für den Alltag.
 
 
-## Zusätzliche Angebote für pädagogische Fachkräfte und Institutionen
-**Supervision für Kindergarten-Teams**
-- **Fallsupervision**: Umgang mit herausfordernden Kindern oder Situationen, Elternarbeit, Elterngespräche; zur Reflexion bzw. Veränderung beruflichen Handelns und Erlebens
-- **Teamsupervision**: Kommunikation im Team, Teamdynamik, teaminterne Schwierigkeiten
 
-**Beratung und Prozessbegleitung für pädagogisches Fachpersonal** in herausfordernden Situationen (mit Kindern)
 
-**Elternbildung, Elternabende**
-Themengebiete: 
-- Kinder vs. TV, Smartphone & Co: Wie gestalte ich den Umgang mit Medien kindgerecht? 
-- Umgang mit Stress (für Erwachsene): Stressdefinition, Stressbewältigung, Erschöpfung & Burnout
-- Gesunder Schlaf (Bewältigung von Schlafstörungen; Schlafhygiene; Schlaf bei Kindern und Erwachsenen)
-- Und weitere Themen nach Anfrage und Absprache
+<br>
+### für pädagogische Fachkräfte und Teams
+**Workshops**
+- **Kompetent, sicher und einfühlsam Elterngespräche und/oder Entwicklungsgespräche führen** 
+- Beobachtungsmethoden und -Materialien und wie diese eingesetzt werden
+- Gesprächsführung und Kommunikation mit Eltern und Angehörigen
+-**Kultursensitivität als Aspekt pädagogischen Handelns** – vom Verstehen unterschiedlicher Kulturen
+<br>
+Die Workshops können in der Einrichtung (Kindergarten, Krippe, Gruppe…) und für ein Team von max. 12 Personen durchgeführt werden. [Kontaktieren](/kontakt/) Sie mich gerne für ein individuelles Angebot! 
+
+
+<br>
+<br>
+**Supervision**
+
+- **Teamsupervision**
+- Bietet einen geschützten Rahmen Konflikte aufzuarbeiten
+- Kommunikation im Team
+- Teamdynamik
+- teaminterne Schwierigkeiten und/oder Konflikte
+- Prozessbegleitung
+<br>
+
+- **Einzelsupervision**
+- Zur Erweiterung persönlicher Kompetenzen
+- Perspektivenwechsel
+- Reflexion aktueller Geschehnisse, Probleme und Schwierigkeiten 
+- Persönliche Grenzen und Sichtweisen (Abgrenzung, „nein-Sagen“, Work-Life-Balance…)
+- Prophylaktische Begleitung im Sinne der Qualitätssicherung
+<br>
+
+- **Fallsupervision**
+- Umgang mit herausfordernden Kindern oder Situationen
+- Elternarbeit, Elterngespräche
+- zur Reflexion bzw. Veränderung beruflichen Handelns und Erlebens
+<br>
+
+Teamsupervision wird für Gruppengrößen von 4 – 10 Personen angeboten und kann in der Einrichtung (Kindergarten, Krippe, Gruppe…) durchgeführt werden. Einzelsupervision findet im Praxisraum statt. [Kontaktieren](/kontakt/)Sie mich gerne für ein individuelles Angebot!
+<br>
+
+###Vorträge
+**Für Eltern und pädagogische Fachkräfte**
+<br>
+- **Fernseher, Smartphone, Computer & Co**
+Bildschirmmedien sind aus unserem heutigen Alltag nicht mehr wegzudenken. Es stellt sich daher oftmals die Frage, in welchem Ausmaß finden die „neuen Medien“ auch in Kinderhänden Platz? Wie gestalte ich den Umgang kindgerecht? Welche Gefahren bestehen bzw. welchen Einfluss können fernsehen, soziale Netzwerke und Computerspiele auf die kindliche Entwicklung haben?
+
+- **Entwicklungspsychologie**
+Von der pränatalen Entwicklung zur körperlichen, kognitiven und sozial-emotionalen Entwicklung im Kleinkindalter und in der frühen Kindheit. 
+
+- **Grundlagen der Bindungstheorie**
+Bereits Mitte des 20. Jahrhunderts erforschte John Bowlby die Auswirkungen einer Trennung von Mutter und Kind auf die kindliche Psyche. Die daraus entstandene Bindungstheorie unterstreicht die immense Bedeutung einer konstanten, feinfühligen Beziehung zwischen Kind und einer ihm nahestehenden Person. In diesem Vortrag kann auch reflektiert werden, welche Bindungsart zwischen Ihnen und Ihrem Kind besteht. 
+
+- **Wieviel Wahrheit braucht ein Kind**
+Von kleinen Lügen und großen Lasten... Wie sage ich es am besten? Womit soll ich noch warten? Wann und wovor braucht das Kind Schutz? Welche Hilfen brauchen Kinder, damit sie mit einer schweren Wirklichkeit leben können? In diesem Vortrag gibt es konkrete Antworten auf diese Fragen. 
+
+- **4 Werte die Kinder ein Leben lang tragen**
+Jesper Juul, ein moderner Pädagoge und Familientherapeut, beschreibt vier Werte als tragfähige Säulen für eine gute Entwicklung von Kindern wie von Familie: Gleichwürdigkeit, Integrität, Authentizität, Verantwortung. In diesem Vortrag können eigenes Erziehungsverhalten und Werte reflektiert und erweitert werden. 
+
+<br>
+<br>
+**Für Eltern und pädagogische Fachkräfte**
+- **Stress lass nach!**
+„Mir wird alles zu viel!“ „Ich weiß gar nicht, wo ich anfangen soll.“ „Ich habe keine Zeit für …“ Kommen Ihnen diese oder ähnliche Gedanken bekannt vor? Es fällt oft schwer Grenzen zu ziehen, „nein“ zu sagen und Selbstfürsorge zu übernehmen. In diesem Vortrag wird genau auf diese Dinge eingegangen: Tipps und Tricks zur Stressbewältigung, Information zur Burnout-Prävention und das Bewusstsein und Wahren der eigenen Grenzen. 
+
+- **Gesunder Schlaf**
+Wollten Sie schon immer wissen, welcher Chronotyp Sie sind - Eule oder Lerche? In diesem Vortrag erfahren Sie Daten, Fakten und auch die Bedeutung von Schlaf. Es werden Möglichkeiten zur Schlafdiagnostik besprochen und Schlafstörungen definiert. Ausführlich werden auch Wege zum gesunden Schlaf und Tipps zur Schlafhygiene vermittelt. 
+
+- **Die Sorgenfalle** 
+Über Sorgen, Ängste und Gedankenkreisen. Ist Ihnen schon passiert, dass Sie wegen all den Sorgen das Schöne und wirklich Wichtige im Leben „übersehen“? In diesem Vortrag werden Möglichkeiten und Wege besprochen, um ein Maß an Kontrolle über Sorgen, Ängste und Gedanken (zurück) zu gewinnen.
 
