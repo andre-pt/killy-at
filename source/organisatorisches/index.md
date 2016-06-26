@@ -12,7 +12,7 @@ Das Honorar für eine **Einzel- oder Paarberatung** für die Dauer von 50 Minute
 Die **Entwicklungsdiagnostik** setzt sich aus 2-3 Einheiten für Diagnostik und Beobachtung, 1 Einheit zur Auswertung und schriftlichen Verfassung der Ergebnisse in Form eines Entwicklungsberichts und wenn erwünscht einer persönlichen Rückmeldung an die Eltern zusammen. Das pauschale Honorar für die Entwicklungsdiagnostik beträgt €250.
 
 Das Honorar für die **Entwicklungsförderung** beträgt €40/Einheit. Eine Einheit mit dem Kind kann zwischen 30-45 Minuten umfassen, in Abhängigkeit von Verfassung und Motivation des Kindes. 
-5er Block €180,-	10er Block €340,-  
+5er Block €180,-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10er Block €340,-
 
 Die **Online-Beratung** wird per Antwort-E-Mail verrechnet, wobei eine erste Kontaktaufnahme kostenlos ist.  Das Honorar für eine E-Mail beträgt je nach Umfang der Fragestellung bzw. Antwortlänge zwischen €20-50.
 
