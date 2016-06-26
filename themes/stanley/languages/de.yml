@@ -3,6 +3,24 @@ menu:
 	welcome.url: /
 	offer: Angebot
 	offer.url: "/angebot/"
+	psychologische-beratung-und-begleitung: "Psychologische Beratung & Begleitung"
+	psychologische-beratung-und-begleitung.url: "/angebot/psychologische-beratung-und-begleitung/"
+	elternberatung: "Elternberatung"
+	elternberatung.url: "/angebot/elternberatung/"
+	entwicklungsdiagnostik: "Entwicklungsdiagnostik"
+	entwicklungsdiagnostik.url: "/angebot/entwicklungsdiagnostik/"
+	entwicklungsfoerderung: "Entwicklungsförderung"
+	entwicklungsfoerderung.url: "/angebot/entwicklungsfoerderung/"
+	online-beratung: "Online Beratung"
+	online-beratung.url: "/angebot/online-beratung/"
+	entspannungstraining: "Entspannungstraining"
+	entspannungstraining.url: "/angebot/entspannungstraining/"
+	workshops: "Workshops"
+	workshops.url: "/angebot/workshops/"
+	supervision: "Supervision"
+	supervision.url: "/angebot/supervision/"
+	vortraege: "Vorträge"
+	vortraege.url: "/angebot/vortraege/"
 	person: Person
 	person.url: "/person/"
 	organisational: Organisatorisches
