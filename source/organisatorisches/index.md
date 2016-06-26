@@ -1,11 +1,11 @@
 title: Organisatorisches
 ---
 
-### Verschwiegenheit
+## Verschwiegenheit
 
 Als Psychologin unterliege ich aufgrund der gesetzlichen Bestimmungen, verankert im Psychologengesetz (2013), §37 als auch aufgrund der Ethikrichtlinien für meine Berufsgruppe der Schweigepflicht.
 
-### Honorar
+## Honorar
 
 Das Honorar für eine **Einzel- oder Paarberatung** für die Dauer von 50 Minuten beträgt €60.
 
@@ -24,11 +24,7 @@ Sollten Sie oder Ihr Kind einen vereinbarten Termin nicht wahrnehmen können, bi
 
 *Sozialtarife sind nach Absprache und Abhängig vom Einkommen möglich.*
 
-<br>
-
-
-
-### Settings:
+## Settings:
 - Einzelsetting (Beratung & Begleitung)
 - Familien-, Paarberatung
 - Entwicklungsdiagnostik: Einzelsetting mit dem Kind + eventuell 1. Einheit gemeinsam mit den Eltern
