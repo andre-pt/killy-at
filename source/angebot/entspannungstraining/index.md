@@ -3,7 +3,6 @@ title: Entspannungstraining
 
 ## Entspannungsgruppe und Einzeltraining für Erwachsene
 
-<em>"Entspannte Eltern = entspannte Kinder"</em>
 
 Durch Entspannung wird der „Kopf wieder frei“, die Konzentrationsfähigkeit verbessert sich und es werden innere Ruhe, Gelassenheit sowie letztendlich Zufriedenheit hergestellt. Besonders in Phasen andauernder Belastung ist es ratsam, auf Maßnahmen der Entspannung zurückzugreifen, damit das natürliche Gleichgewicht zwischen Anspannung und Entspannung wiederhergestellt werden kann.
 

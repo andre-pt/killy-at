@@ -1,3 +1,3 @@
-title: Aktuelles
+title: News
 layout: blog
 ----

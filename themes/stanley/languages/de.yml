@@ -1,6 +1,6 @@
 menu:
-	welcome: Willkommen
-	welcome.url: /
+	news: Aktuelles
+	news.url: /
 	offer: Angebot
 	offer.url: "/angebot/"
 	psychologische-beratung-und-begleitung: "Psychologische Beratung & Begleitung"
@@ -23,6 +23,12 @@ menu:
 	vortraege.url: "/angebot/vortraege/"
 	person: Person
 	person.url: "/person/"
+  ueber-mich: "Über mich"
+  ueber-mich.url: "/person/ueber-mich"
+  arbeitsweise: "Arbeitsweise"
+  arbeitsweise.url: "/person/arbeitsweise"
+  netzwerk: "Netzwerk"
+  netzwerk.url: "/person/netzwerk"
 	organisational: Organisatorisches
 	organisational.url: "/organisatorisches/"
 	contact: Kontakt

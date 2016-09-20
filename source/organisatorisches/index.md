@@ -33,7 +33,10 @@ Sollten Sie oder Ihr Kind einen vereinbarten Termin nicht wahrnehmen können, bi
 - Supervision: Einzel- oder Gruppensetting
 - Entspannungstraining: Gruppe und Einzeltraining für Erwachsene; Gruppe für Kinder
 
-Alle Einheiten mit dem Kind können grundsätzlich in der jeweiligen Einrichtung, welche das Kind besucht (Kindergarten, Krippe, Kindergruppe…) stattfinden, individuelle Entwicklungsförderung wird auch im Praxisraum angeboten. Einheiten mit Erwachsenen bzw. Eltern können sowohl im Praxisraum, als auch in der Einrichtung des Kindes durchgeführt werden. 
+Alle Einheiten mit dem Kind können grundsätzlich in der jeweiligen Einrichtung, welche das Kind besucht (Kindergarten, Krippe, Kindergruppe…) stattfinden. Je nach Absprache kann auch Elternberatung in der Kinderbetreuungseinrichtung stattfinden.
+
+Einzelsettings mit Kindern und Erwachsenen können außerdem im Praxisraum in 1050 Wien oder in der Schatzkiste am Augarten (Obere Augartenstraße 2/2-4, 1020 Wien) durchgeführt werden. 
+
 
 Für die Örtlichkeit der Entspannungstrainings informieren Sie sich bitte telefonisch oder per E-Mail bei mir, da diese Räumlichkeiten in Abhängigkeit von den TeilnehmerInnen wechseln. 
 

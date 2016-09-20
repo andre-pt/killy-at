@@ -1,10 +1,10 @@
-title: Person
+title:
 ---
-
+<br>
 {% img "photo-right person-photo" /person/kk_person.jpg 307 307 "'Mag. Katharina Killy'" "'Psychologin, Kindergarten- und Kleinstkindpädagogin'" %}
 
 #### Mag.rer.nat.
-### Katharina Killy
+## Katharina Killy
 {% img photo-right-mobile /person/kk_person.jpg 250 250 "'Mag. Katharina Killy'" "'Psychologin, Kindergarten- und Kleinstkindpädagogin'" %}
 
 #### <br>Psychologin

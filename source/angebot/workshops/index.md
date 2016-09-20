@@ -8,4 +8,4 @@ title: Workshops
 ### Kultursensitivität als Aspekt pädagogischen Handelns
 - vom Verstehen unterschiedlicher Kulturen
 
-Die Workshops können in der Einrichtung (Kindergarten, Krippe, Gruppe...) und für ein Team von max. 12 Personen durchgeführt werden. [Kontaktieren](/kontakt/) Sie mich gerne für ein individuelles Angebot! 
+Die Workshops können in der Einrichtung (Kindergarten, Krippe, Gruppe...) und für ein Team von max. 10 Personen durchgeführt werden. [Kontaktieren](/kontakt/) Sie mich gerne für ein individuelles Angebot! 
