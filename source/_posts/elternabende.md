@@ -4,14 +4,11 @@ date: 2016-09-17 10:09:54
 
 <img class="photo-right" src="/post-images/elternabende.jpg" width="500" alt="Elternabende in Wien">
 
-1. Fernseher, Smartphone, Computer & Co
-am 12. Oktober 2016, 18:00-20:00 Uhr
+* Wieviel Wahrheit braucht ein Kind
+am 7. November 2016, 18:00-20:00 Uhr
 
-2. Wieviel Wahrheit braucht ein Kind
-am 9. November 2016, 18:00-20:00 Uhr
-
-3. Stress lass nach! 
-am 14. Dezember 2016, 18:00-20:00 Uhr
+* Stress lass nach! 
+am 12. Dezember 2016, 18:00-20:00 Uhr
 
 
 in der Schatzkiste am Augarten: Obere Augartenstraße 2/2-4, 1020 Wien
