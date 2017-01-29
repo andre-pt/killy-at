@@ -20,16 +20,17 @@ Ausbildungen:
 - Bildungsanstalt für Kindergarten- und Früherziehungspädagogik (OÖ)
 
 Fortbildungen: 
+- Psychologische Beratung von Eltern bei Erziehungsfragen (ÖAH)
 - Biofeedback (Firma Schuhfried)
 - Autismus-Spektrum-Störung (ÖAH) 
 - Sensorische Integration (ÖAH)
 - Seminarreihe zu „Psychologische Onlineberatung“ (BÖP) 
 
 Berufserfahrung:
-- derzeit: Tätigkeit als Psychologin im Sonnberghof - Onkologische Rehabilitation 
-- derzeit: Mobile Kindergartenpsychologin für Privatkindergärten in Wien
-- Tätigkeit als Kindergartenpädagogin (heilpädagogischer Kindergarten und Privatkindergarten)
+- derzeit: Kinder- und Jugendpsychiatrie in Hinterbrühl 
+- Der Sonnberghof - Onkologische Rehabilitation 
+- Mobile Kindergartenpsychologin für Privatkindergärten in Wien
 - Österreichische Autistenhilfe (ÖAH)
-- Zentrum für Entwicklungsneurologie und Sozialpädiatrie (Wr. Neustadt)
+- Tätigkeit als Kindergartenpädagogin (heilpädagogischer Kindergarten und Privatkindergarten)
 
 Mitglied des Berufsverbandes Österreichischer PsychologInnen
