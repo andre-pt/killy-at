@@ -8,3 +8,4 @@ public/
 *.sublime-workspace
 themes/stanley/source/libs/
 *.npp
+.idea
