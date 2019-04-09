@@ -1,20 +1,11 @@
 title: Entspannungstraining
 ---
 
-## Entspannungsgruppe und Einzeltraining für Erwachsene
+## Entspannungstraining für Erwachsene
 
 
 Durch Entspannung wird der „Kopf wieder frei“, die Konzentrationsfähigkeit verbessert sich und es werden innere Ruhe, Gelassenheit sowie letztendlich Zufriedenheit hergestellt. Besonders in Phasen andauernder Belastung ist es ratsam, auf Maßnahmen der Entspannung zurückzugreifen, damit das natürliche Gleichgewicht zwischen Anspannung und Entspannung wiederhergestellt werden kann.
 
-Es werden Entspannungsgruppen, als auch Einzeltrainings für Erwachsene angeboten. In einer Entspannungsgruppe werden verschiedene bewährte Entspannungstechniken erprobt: Autogenes Training, Progressive Muskelrelaxation (Jacobson), Atemübungen, Achtsamkeitsübung, Imagination bzw. Phantasiereisen. Im Einzeltraining kann individuell bestimmt werden, welche Technik(en) angewandt werden sollen. 
+Nur wenn Eltern oder pädagogisches Personal auch gut für sich selbst sorgen, können sie ihre Kinder adäquat begleiten. Denken Sie an die Sicherheitsanleitung im Flugzeug: Wenn die Sauerstoffmasken herunterfallen, sollen die Erwachsenen zuerst selbst eine Maske anlegen, bevor sie den Kindern helfen die Maske anzulegen. Nur wenn der Erwachsene ausreichend (mit Sauerstoff) versorgt ist, kann er dem Kind überhaupt helfen.
 
-Informieren Sie sich gerne per [E-Mail oder telefonisch](/kontakt/) über aktuelle Termine und Plätze, wo ein solches Entspannungstraining stattfindet.  
-
-
-## Entspannungsgruppe für Kinder
-
-Zur Ruhe zu kommen und sich zu entspannen stellt auch für Kinder durch alltägliche Reizüberflutungen und den wachsenden Ansprüchen an die Leistungsfähigkeit eine besondere Herausforderung dar. Bei Überforderung reagieren Kinder häufig mit Desinteresse, Ungeduld, Konzentrationsschwierigkeiten oder aggressivem Verhalten. Insbesondere können Entspannungsübungen auch bei psychosomatischen Beschwerden zu einer Verbesserung der Symptome führen.
-
-Die Entspannungsgruppe ist für Kinder zwischen 4-10 Jahren. 
-
-Ziele sind beispielsweise: Steigerung der Körperwahrnehmung, Förderung der Konzentrations- und Aufnahmefähigkeit, Erlernen von Entspannungsübungen für den Alltag.
+Entspannungstrainings werden im Einzelsetting und in Gruppen (z.B. für Teams in Kindertageseinrichtungen) angeboten. Für mehr Informationen zu aktuellen Angeboten [kontaktieren](/kontakt/) Sie mich gerne. 

@@ -4,7 +4,7 @@ sitemap: false
 
 Verantwortlich für den Inhalt:
 Mag. Katharina Killy
-Margaretenstraße 142/11, 1050 Wien
+Linden 53, 4652 Steinerkirchen
 
 Mobil: +43 (0) 660 5489927
 e-mail: <katharina@killy.at>
