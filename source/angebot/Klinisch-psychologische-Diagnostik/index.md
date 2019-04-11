@@ -1,0 +1,4 @@
+title: Klinisch-Psychologische Diagnostik
+---
+
+Die **klinisch-psychologische Diagnostik* oder *Entwicklungsdiagnostik* dient der Abklärung von individuellen Fähigkeiten, Stärken und Schwächen und der Beantwortung einer konkreten Fragestellung. Der diagnostische Prozess umfasst ein Gespräch mit den Eltern, ein Gespräch mit dem Kind sowie den Einsatz standardisierter psychologischer Verfahren, welche mit dem Kind spielerisch eingesetzt werden. Bei Bedarf und Einverständnis der Eltern wird auch das weitere Umfeld (Kindergarten, TherapeutInnen ...) in den Diagnoseprozess miteinbezogen; etwa durch Ausfüllen eines Fragebogens oder (Telefon-)Gespräche. Die Untersuchungsergebnisse bilden dann die Grundlage für weitere Empfehlungen im Zuge eines umfassenden Beratungsgespräches und für eine gezielte weitere Behandlung bzw. ein gezieltes Lerntraining.

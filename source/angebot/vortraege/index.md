@@ -3,20 +3,18 @@ title: Vorträge
 
 ## Für Eltern und pädagogische Fachkräfte
 
+- **Halt geben - Grenzen setzen**
+Von dem Umgang mit herausforderndem, aggressivem und oppositionellem Verhalten von Kindern. Es werden verschiedene Erziehungs- und Handlungsstrategien besprochen, die unmittelbar in der Praxis umgesetzt werden können.
+
+- **Emotionale Intelligenz**
+Wie kann ich Kinder dabei unterstützung und begleiten, emotional Intelligente Heranwachsende zu werden. Wie funktioniert die Entwicklung der emotionalen und sozialen Kompetenz, wie werden Fähigkeiten der Emotionsregulation erlernt... Dies und mehr sind Fragen, die in diesem Vortrag bearbeitet werden. 
+
 - **Fernseher, Smartphone, Computer & Co**
 Bildschirmmedien sind aus unserem heutigen Alltag nicht mehr wegzudenken. Es stellt sich daher oftmals die Frage, in welchem Ausmaß finden die „neuen Medien“ auch in Kinderhänden Platz? Wie gestalte ich den Umgang kindgerecht? Welche Gefahren bestehen bzw. welchen Einfluss können fernsehen, soziale Netzwerke und Computerspiele auf die kindliche Entwicklung haben?
-
-- **Entwicklungspsychologie**
-Von der pränatalen Entwicklung zur körperlichen, kognitiven und sozial-emotionalen Entwicklung im Kleinkindalter und in der frühen Kindheit. 
-
-- **Grundlagen der Bindungstheorie**
-Bereits Mitte des 20. Jahrhunderts erforschte John Bowlby die Auswirkungen einer Trennung von Mutter und Kind auf die kindliche Psyche. Die daraus entstandene Bindungstheorie unterstreicht die immense Bedeutung einer konstanten, feinfühligen Beziehung zwischen Kind und einer ihm nahestehenden Person. In diesem Vortrag kann auch reflektiert werden, welche Bindungsart zwischen Ihnen und Ihrem Kind besteht. 
 
 - **Wieviel Wahrheit braucht ein Kind**
 Von kleinen Lügen und großen Lasten… Wie sage ich es am besten? Womit soll ich noch warten? Wann und wovor braucht das Kind Schutz? Ob und wie Kinder später Wahrheiten verkraften, hängt entscheidend davon ab, wie Eltern selbst damit umgehen. In diesem Vortrag werden viele alltägliche Situationen aufgegriffen, bei denen Erwachsene manchmal nicht glaubwürdig und klar sind und mit diesem Verhalten Kinder verunsichern. Es wird besprochen, wie Erwachsene echt, aufrichtig und eindeutig sein können und klare Botschaften geben können. 
 
-- **4 Werte die Kinder ein Leben lang tragen**
-Jesper Juul, ein moderner Pädagoge und Familientherapeut, beschreibt vier Werte als tragfähige Säulen für eine gute Entwicklung von Kindern wie von Familie: Gleichwürdigkeit, Integrität, Authentizität, Verantwortung. In diesem Vortrag können eigenes Erziehungsverhalten und Werte reflektiert und erweitert werden. 
 
 ## Für alle interessierten Erwachsenen
 
