@@ -1,4 +1,0 @@
-title: Offer
----
-
-**Coming soon**

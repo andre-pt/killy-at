@@ -27,15 +27,6 @@
     <meta name="msapplication-TileImage" content="/img/favicons/mstile-144x144.png">
     <meta name="theme-color" content="#ffffff">
 
-    <%
-        var altLangPath = _.replace(path, 'index.html', '');
-        altLangPath = _.replace(altLangPath, 'en/', '');
-        altLangPath = config.url + "/" + (page.lang === config.language ? "en/" : "") + altLangPath;
-
-        var altLang = page.lang === config.language ? "en" : "de";
-    %>
-    <link rel="alternate" href="<%=altLangPath %>" hreflang="<%=altLang %>">
-
     <%- open_graph({description: __('open_graph.description'),
                     title: __('open_graph.title'),
                     image: config.open_graph.image}) %>

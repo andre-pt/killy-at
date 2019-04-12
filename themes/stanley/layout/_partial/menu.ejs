@@ -9,7 +9,7 @@
             <span class="icon-bar"></span>
           </button>
           <div class="navbar-logo">
-            <a href="<%= page.lang === config.language ? "/" : ("/" + page.lang + "/") %>"><img class="logo" src="/img/logo.png"></a>
+            <a href="/"><img class="logo" src="/img/logo.png"></a>
           </div>
         </div>
       </div>
@@ -52,8 +52,5 @@
         </div>
       </div>
     </div>
-  </div>
-  <div class="language-selector">
-    <a href="<%= page.lang !== config.language ? "/" : ("/en/") %>"><%= __('site.other_language') %></a>
   </div>
 </div>
