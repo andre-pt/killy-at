@@ -9,3 +9,4 @@ public/
 themes/stanley/source/libs/
 *.npp
 .idea
+package-lock.json
