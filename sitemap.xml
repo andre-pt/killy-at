@@ -2,13 +2,8 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <sitemap>
-        <loc>http://www.killy.at/post-sitemap.xml</loc>
-        <lastmod>2019-03-16T18:51:14.851Z</lastmod>
-    </sitemap>
-
-    <sitemap>
         <loc>http://www.killy.at/page-sitemap.xml</loc>
-        <lastmod>2019-04-11T18:48:10.793Z</lastmod>
+        <lastmod>2019-06-02T16:40:00.184Z</lastmod>
     </sitemap>
 
 </sitemapindex>
