@@ -1,17 +1,17 @@
 title: Klinisch-Psychologische Diagnostik
 ---
 
-Die **klinisch-psychologische Diagnostik* oder *Entwicklungsdiagnostik* dient der Abklärung von individuellen Fähigkeiten, Stärken und Schwächen und der Beantwortung einer konkreten Fragestellung. Der diagnostische Prozess umfasst ein Gespräch mit den Eltern, ein Gespräch mit dem Kind sowie den Einsatz standardisierter psychologischer Verfahren, welche mit dem Kind spielerisch eingesetzt werden. Bei Bedarf und Einverständnis der Eltern wird auch das weitere Umfeld (Kindergarten, Schule, TherapeutInnen ...) in den Diagnoseprozess miteinbezogen; etwa durch Ausfüllen eines Fragebogens oder (Telefon-)Gespräche. Die Untersuchungsergebnisse bilden dann die Grundlage für weitere Empfehlungen im Zuge eines umfassenden Beratungsgespräches und für eine gezielte weitere Behandlung bzw. ein gezieltes Lerntraining.
+Die *klinisch-psychologische Diagnostik* dient der Abklärung von individuellen Fähigkeiten, Stärken und Schwächen und der Beantwortung einer konkreten Fragestellung. Der diagnostische Prozess umfasst ein Gespräch mit den Eltern, ein Gespräch mit dem Kind sowie den Einsatz standardisierter psychologischer Verfahren, welche mit dem Kind spielerisch eingesetzt werden. Bei Bedarf und Einverständnis der Eltern wird auch das weitere Umfeld (Kindergarten, Schule, TherapeutInnen ...) in den Diagnoseprozess miteinbezogen; etwa durch Ausfüllen eines Fragebogens oder (Telefon-)Gespräche. Die Untersuchungsergebnisse bilden dann die Grundlage für weitere Empfehlungen im Zuge eines umfassenden Beratungsgespräches und für eine gezielte weitere Behandlung bzw. ein gezieltes Lerntraining.
 
 Zielgruppe: 
 	Kinder und Jugendliche im Alter von 2 bis 16 Jahren
 
 Leistungsspektrum:
-	- Abklärung des Entwicklungsstandes (Erstellung eines Profils der kognitiven, sprachlichen, motorischen, sozialen und emotionalen Entwicklung; Abklärung einer Integrationsmaßnahme im Kindergarten - F1-Formular ...)
-	- Schuleingangsdiagnostik
-	- Lern- und Leistungsprobleme (Rechtschreibschwierigkeiten, Rechenschwierigkeiten, psychosomatische Beschwerden, Prüfungsangst, Aufmerksamkeits- und Konzentrationsschwierigkeiten, ADHS)
-	- Emotionale Auffälligkeiten (Aggressionen, Ängste, Depressionen...)
-	- Sonstige Auffälligkeiten (z.B. nach Trennung, Scheidung, Krankheit, Tod eines Angehörigen...)
+- Abklärung des Entwicklungsstandes (Erstellung eines Profils der kognitiven, sprachlichen, motorischen, sozialen und emotionalen Entwicklung; Abklärung einer Integrationsmaßnahme im Kindergarten - F1-Formular ...)
+- Schuleingangsdiagnostik
+- Lern- und Leistungsprobleme (Rechtschreibschwierigkeiten, Rechenschwierigkeiten, psychosomatische Beschwerden, Prüfungsangst, Aufmerksamkeits- und Konzentrationsschwierigkeiten, ADHS)
+- Emotionale Auffälligkeiten (Aggressionen, Ängste, Depressionen...)
+- Sonstige Auffälligkeiten (z.B. nach Trennung, Scheidung, Krankheit, Tod eines Angehörigen...)
 	
 	
 	

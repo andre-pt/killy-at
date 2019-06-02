@@ -4,7 +4,7 @@ sitemap: false
 
 Verantwortlich für den Inhalt:
 Mag. Katharina Killy
-Linden 53, 4652 Steinerkirchen
+Klosterstraße 1, 4840 Vöcklabruck
 
 Mobil: +43 (0) 660 5489927
 e-mail: <katharina@killy.at>
