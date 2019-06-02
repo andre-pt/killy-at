@@ -13,4 +13,3 @@ Mögliche Themen für eine psychologische Beratung können beispielsweise sein:
 - Persönlichkeitsentwicklung
 - Entscheidungsfindung 
 - Beziehungsprobleme und familiäre Problematiken
-- Berufsorientierung, Berufsplanung

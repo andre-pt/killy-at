@@ -18,6 +18,7 @@ title: Supervision
 - Persönliche Grenzen und Sichtweisen (Abgrenzung, „nein-Sagen“, Work-Life-Balance…)
 - Prophylaktische Begleitung im Sinne der Qualitätssicherung
 
+
 ## Fallsupervision
 - Umgang mit herausfordernden Kindern oder Situationen
 - Elternarbeit, Elterngespräche
