@@ -1,5 +1,5 @@
 menu:
-	news: Aktuelles
+	news: Home
 	news.url: /
 	offer: Angebot
 	offer.url: "/angebot/"
