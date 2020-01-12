@@ -4,11 +4,11 @@ sitemap: false
 
 Verantwortlich für den Inhalt:
 Mag. Katharina Killy
-Klosterstraße 1, 4840 Vöcklabruck
+Am Weinberg 5, 4845 Regau
 
 Mobil: +43 (0) 660 5489927
 e-mail: <katharina@killy.at>
-<http://www.killy.at/>
+<https://www.killy.at/>
 
 ## Rechtliche Hinweise:
 
