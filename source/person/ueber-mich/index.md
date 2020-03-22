@@ -8,6 +8,7 @@ title:
 {% img photo-right-mobile /person/kk_person.jpg 250 250 "'Mag. Katharina Killy'" "'Klinische Psychologin, Kinder- und Jugendpsychologin, Kindergarten- und Kleinstkindpädagogin'" %}
 
 #### <br>Klinische Psychologin
+#### Wahlpsychologin
 #### Kinder- und Jugendpsychologin
 #### Kindergarten- und Kleinstkindpädagogin
 
@@ -16,6 +17,7 @@ title:
 ---
 
 Ausbildungen:
+- Schematherapie für Kinder und Jugendliche mit Dr. Christof Loose (Institut für Schemathierapie in Graz) 
 - postgradueller Lehrgang zur Kinder- und Jugendpsychologin
 - postgraduelle Ausbildung zur Klinischen Psychologin bei der Wiener Akademie für Klinische Psychologie (WIKIP)
 - Diplomstudium Psychologie an der Universität Wien mit Schwerpunkt Kinder- und Jugendpsychologie, Klinische Psychologie und Kognitive Psychologie
