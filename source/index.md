@@ -10,5 +10,6 @@
 - [Entwicklungsförderung](/angebot/entwicklungsfoerderung)
 - [Erziehungsberatung und Elterncoaching](/angebot/Erziehungsberatung-und-Elterncoaching)
 - [Entspannungstraining und Stressmanagement](/angebot/Entspannungstraining-und-Stressmanagement/)
+- [Online-Beratung](/angebot/Online-Beratung/)
 - [Supervision](/angebot/supervision)
 - [Vorträge, Seminare und Workshops](/angebot/vortraege)
