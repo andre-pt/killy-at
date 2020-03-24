@@ -1,98 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://www.killy.at</loc>
+        <loc>https://www.killy.at</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
     
     <url>
-        <loc>http://www.killy.at/kontakt/index.html</loc>
-        <lastmod>2020-01-12T16:45:52.705Z</lastmod>
+        <loc>https://www.killy.at/kontakt/index.html</loc>
+        <lastmod>2020-03-24T19:52:52.572Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://www.killy.at/person/netzwerk/index.html</loc>
-        <lastmod>2019-06-02T16:40:00.184Z</lastmod>
+        <loc>https://www.killy.at/index.html</loc>
+        <lastmod>2020-03-24T19:36:42.222Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://www.killy.at/person/ueber-mich/index.html</loc>
-        <lastmod>2019-06-02T16:40:00.184Z</lastmod>
+        <loc>https://www.killy.at/organisatorisches/index.html</loc>
+        <lastmod>2020-03-24T19:36:42.222Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://www.killy.at/index.html</loc>
-        <lastmod>2019-06-02T16:40:00.176Z</lastmod>
+        <loc>https://www.killy.at/angebot/Klinisch-psychologische-Beratung-Behandlung/index.html</loc>
+        <lastmod>2020-03-24T19:36:42.222Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://www.killy.at/organisatorisches/index.html</loc>
-        <lastmod>2019-06-02T16:40:00.176Z</lastmod>
+        <loc>https://www.killy.at/angebot/Klinisch-psychologische-Diagnostik/index.html</loc>
+        <lastmod>2020-03-24T19:36:42.222Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://www.killy.at/angebot/vortraege/index.html</loc>
-        <lastmod>2019-06-02T16:40:00.176Z</lastmod>
+        <loc>https://www.killy.at/angebot/vortraege/index.html</loc>
+        <lastmod>2020-03-24T19:36:42.222Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://www.killy.at/angebot/Entspannungstraining-und-Stressmanagement/index.html</loc>
+        <loc>https://www.killy.at/angebot/Online-Beratung/index.html</loc>
+        <lastmod>2020-03-24T19:36:42.222Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.killy.at/person/netzwerk/index.html</loc>
+        <lastmod>2020-03-24T19:36:42.222Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.killy.at/person/ueber-mich/index.html</loc>
+        <lastmod>2020-03-24T19:36:42.222Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.killy.at/angebot/Erziehungsberatung-und-Elterncoaching/index.html</loc>
         <lastmod>2019-06-02T16:40:00.172Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://www.killy.at/angebot/Erziehungsberatung-und-Elterncoaching/index.html</loc>
+        <loc>https://www.killy.at/angebot/entwicklungsfoerderung/index.html</loc>
         <lastmod>2019-06-02T16:40:00.172Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://www.killy.at/angebot/Klinisch-psychologische-Diagnostik/index.html</loc>
+        <loc>https://www.killy.at/angebot/supervision/index.html</loc>
         <lastmod>2019-06-02T16:40:00.172Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://www.killy.at/angebot/Klinisch-psychologische-Behandlung/index.html</loc>
-        <lastmod>2019-06-02T16:40:00.172Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://www.killy.at/angebot/entwicklungsfoerderung/index.html</loc>
-        <lastmod>2019-06-02T16:40:00.172Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://www.killy.at/angebot/supervision/index.html</loc>
-        <lastmod>2019-06-02T16:40:00.172Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://www.killy.at/person/arbeitsweise/index.html</loc>
-        <lastmod>2019-03-16T18:51:14.859Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
