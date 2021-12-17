@@ -14,5 +14,5 @@ Leistungsspektrum:
 
 Seit 01.01.1995 ist **klinisch-psychologische Diagnostik** eine Sachleistung der Pflichtversicherung und kann bei niedergelassenen VertragspsychologInnen und WahlpsychologInnen für klinisch-psychologische Diagnostik in Anspruch genommen werden. 
 **Ich bin beim Hauptverband der österreichischen Sozialversicherung als Wahlpsychologin geführt. Sie sind daher zur Inanspruchnahme der Kostenerstattung für Leistungen der klinisch-psychologischen Diagnostik gegenüber dem jeweils leistungszuständigen Krankenversicherungsträger in Höhe von bis zu 80% (der Kassentarife) des Vertragstarifes berechtigt.**
-Wichtig dafür ist eine Überweisung eines Arztes (Kinderheilkunde, Kinder- und Jugendpsychiatrie, Fachärzte für Innere Medizin, Neurologie, Psychiatrie). Eine Überweisung von Allgemeinmedizinern, anderen Fachärzten sowie Wahlärzten muss chefärztlich bewilligt werden.
+Wichtig dafür ist eine Überweisung eines Arztes (Allgemeinmedizin, Kinderheilkunde, Kinder- und Jugendpsychiatrie, Fachärzte für Innere Medizin, Neurologie, Psychiatrie). 
 Auf dem Zuweisungsschein muss vermerkt sein, dass eine klinisch-psychologische Diagnostik erbeten wird. Zudem muss eine krankheitswertige Verdachtsdiagnose nach ICD10 angegeben werden. Bitte weisen Sie Ihren Arzt darauf hin.

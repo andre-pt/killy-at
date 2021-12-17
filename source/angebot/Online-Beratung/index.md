@@ -16,7 +16,7 @@ Die Psychologische Online-Beratung über Video, Telefonie oder Mail bietet Ihnen
 ### Kontakt-Möglichkeiten der Online-Beratung: 
     
 **Video-Beratung**
-Über Skype, Zoom oder Whatsapp können wir uns fast wie in der Praxis unterhalten. 
+Über eine Videoberatungsplattform können wir uns fast wie in der Praxis unterhalten. 
 
 **Telefonische Beratung**
 Wenn es Ihnen angenehmer ist nur mit der Stimme zu kommunizieren oder wenn die technische Ausstattung für die Video-Übertragung nicht vorhanden ist, können wir einfach telefonieren.
