@@ -7,42 +7,49 @@
     </url>
     
     <url>
-        <loc>https://www.killy.at/kontakt/index.html</loc>
-        <lastmod>2020-03-27T18:43:59.224Z</lastmod>
+        <loc>https://www.killy.at/index.html</loc>
+        <lastmod>2021-12-17T19:23:49.351Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>https://www.killy.at/index.html</loc>
-        <lastmod>2020-03-24T19:36:42.222Z</lastmod>
+        <loc>https://www.killy.at/kontakt/index.html</loc>
+        <lastmod>2021-12-17T19:23:49.351Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>https://www.killy.at/organisatorisches/index.html</loc>
-        <lastmod>2020-03-24T19:36:42.222Z</lastmod>
+        <lastmod>2021-12-17T19:23:49.351Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>https://www.killy.at/angebot/Klinisch-psychologische-Diagnostik/index.html</loc>
-        <lastmod>2020-03-24T19:36:42.222Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://www.killy.at/angebot/Klinisch-psychologische-Beratung-Behandlung/index.html</loc>
-        <lastmod>2020-03-24T19:36:42.222Z</lastmod>
+        <lastmod>2021-12-17T19:23:49.351Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>https://www.killy.at/angebot/Online-Beratung/index.html</loc>
+        <lastmod>2021-12-17T19:23:49.351Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.killy.at/person/ueber-mich/index.html</loc>
+        <lastmod>2021-12-17T19:23:49.351Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.killy.at/angebot/Klinisch-psychologische-Beratung-Behandlung/index.html</loc>
         <lastmod>2020-03-24T19:36:42.222Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -57,13 +64,6 @@
     
     <url>
         <loc>https://www.killy.at/person/netzwerk/index.html</loc>
-        <lastmod>2020-03-24T19:36:42.222Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://www.killy.at/person/ueber-mich/index.html</loc>
         <lastmod>2020-03-24T19:36:42.222Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
