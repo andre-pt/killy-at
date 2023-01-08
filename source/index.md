@@ -5,7 +5,7 @@
 <br />
 
 **Liebe Klienten/innen und  Interessenten/innen,**
-**Ich bin zurzeit und bis voraussichtlich Anfang 2023 in Babypause. Bei Anfragen für 2023 schreiben Sie mir gere per Email.**
+**Ich bin zurzeit und bis voraussichtlich Mitte 2023 in Babypause. Bei Anfragen für das zweite Halbjahr 2023 schreiben Sie mir gerne per Email.**
 
 <br />
 # Angebot
