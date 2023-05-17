@@ -1,28 +1,24 @@
 menu:
 	news: Home
 	news.url: /
-	offer: Angebot
-	offer.url: "/angebot/"
+	offer: Leistungen
+	offer.url: "/leistungen/"
 	Klinisch-psychologische-Beratung-Behandlung: "Klinisch-psychologische Beratung und Behandlung"
-	Klinisch-psychologische-Beratung-Behandlung.url: "/angebot/Klinisch-psychologische-Beratung-Behandlung/"
+	Klinisch-psychologische-Beratung-Behandlung.url: "/leistungen/Klinisch-psychologische-Beratung-Behandlung/"
 	Erziehungsberatung-und-Elterncoaching: "Erziehungsberatung und Elterncoaching"
-	Erziehungsberatung-und-Elterncoaching.url: "/angebot/Erziehungsberatung-und-Elterncoaching/"
+	Erziehungsberatung-und-Elterncoaching.url: "/leistungen/Erziehungsberatung-und-Elterncoaching/"
 	Klinisch-psychologische-Diagnostik: "Klinisch-psychologische Diagnostik"
-	Klinisch-psychologische-Diagnostik.url: "/angebot/Klinisch-psychologische-Diagnostik/"
+	Klinisch-psychologische-Diagnostik.url: "/leistungen/Klinisch-psychologische-Diagnostik/"
 	Entwicklungsfoerderung: "Entwicklungsförderung"
-	Entwicklungsfoerderung.url: "/angebot/entwicklungsfoerderung/"
+	Entwicklungsfoerderung.url: "/leistungen/entwicklungsfoerderung/"
 	Online-Beratung: "Online Beratung"
-	Online-Beratung.url: "/angebot/Online-Beratung/"
+	Online-Beratung.url: "/leistungen/Online-Beratung/"
 	supervision: "Supervision"
-	supervision.url: "/angebot/supervision/"
+	supervision.url: "/leistungen/supervision/"
 	vortraege: "Vorträge"
-	vortraege.url: "/angebot/vortraege/"
+	vortraege.url: "/leistungen/vortraege/"
 	person: Person
 	person.url: "/person/"
-  ueber-mich: "Über mich"
-  ueber-mich.url: "/person/ueber-mich"
-  netzwerk: "Netzwerk"
-  netzwerk.url: "/person/netzwerk"
 	organisational: Organisatorisches
 	organisational.url: "/organisatorisches/"
 	contact: Kontakt
@@ -34,4 +30,4 @@ site:
 
 open_graph:
 	description: "Die Psychologin, Kindergarten- und Kleinstkindpädagogin, Mag. Katharina Killy, unterstützt Eltern, Kinder und auch pädagogisches Fachpersonal in herausfordernden Situationen, Erziehungs- und Entwicklungsfragen."
-	title: "Mag. Katharina Killy"
+	title: "Mag. Katharina Killy-Martins"

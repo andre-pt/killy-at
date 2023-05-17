@@ -1,6 +1,5 @@
 title: Kontakt
 ---
-zurzeit und bis voraussichtlich Mitte 2023 in Babypause. Bei Anfragen für das zweite Halbjahr 2023 schreiben Sie mir gerne per Email.
 
 <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>&nbsp;&nbsp;<katharina@killy.at>
 <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>&nbsp;&nbsp;0660 548 9927

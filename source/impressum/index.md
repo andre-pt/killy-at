@@ -3,7 +3,7 @@ sitemap: false
 ---
 
 Verantwortlich für den Inhalt:
-Mag. Katharina Killy
+Mag. Katharina Killy-Martins
 Am Weinberg 5, 4845 Regau
 
 Mobil: +43 (0) 660 5489927

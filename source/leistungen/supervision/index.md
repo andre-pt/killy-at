@@ -15,7 +15,7 @@ title: Supervision
 - Zur Erweiterung persönlicher Kompetenzen
 - Perspektivenwechsel
 - Reflexion aktueller Geschehnisse, Probleme und Schwierigkeiten 
-- Persönliche Grenzen und Sichtweisen (Abgrenzung, „nein-Sagen“, Work-Life-Balance…)
+- Persönliche Grenzen und Sichtweisen (Abgrenzung, „nein-Sagen“, Work-Life-Balance...)
 - Prophylaktische Begleitung im Sinne der Qualitätssicherung
 
 

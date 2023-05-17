@@ -1,11 +1,11 @@
 title:
 ---
 <br>
-{% img "photo-right person-photo" /person/kk_person.jpg 307 307 "'Mag. Katharina Killy'" "'Klinische Psychologin, Kinder- und Jugendpsychologin, Kindergarten- und Kleinstkindpädagogin'" %}
+{% img "photo-right person-photo" /person/kk_person.jpg 307 307 "'Mag. Katharina Killy-Martins'" "'Klinische Psychologin, Kinder- und Jugendpsychologin, Kindergarten- und Kleinstkindpädagogin'" %}
 
 #### Mag.rer.nat.
 ## Katharina Killy-Martins
-{% img photo-right-mobile /person/kk_person.jpg 250 250 "'Mag. Katharina Killy'" "'Klinische Psychologin, Kinder- und Jugendpsychologin, Kindergarten- und Kleinstkindpädagogin'" %}
+{% img photo-right-mobile /person/kk_person.jpg 250 250 "'Mag. Katharina Killy-Martins'" "'Klinische Psychologin, Kinder- und Jugendpsychologin, Kindergarten- und Kleinstkindpädagogin'" %}
 
 #### <br>Klinische Psychologin
 #### Wahlpsychologin

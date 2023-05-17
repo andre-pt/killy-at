@@ -4,16 +4,11 @@
 <span class="home-contact">Klinische Psychologin, Wahlpsychologin, Kinder- und Jugendpsychologin</span></p>
 <br />
 
-**Liebe Klienten/innen und  Interessenten/innen,**
-**Ich bin zurzeit und bis voraussichtlich Mitte 2023 in Babypause. Bei Anfragen für das zweite Halbjahr 2023 schreiben Sie mir gerne per Email.**
-
 <br />
-# Angebot
-- [Klinisch-psychologische Diagnostik, Entwicklungsdiagnostik](/angebot/Klinisch-psychologische-Diagnostik)
-- [Klinisch-psychologische Behandlung und Beratung](/angebot/Klinisch-psychologische-Behandlung)
-- [Entwicklungsförderung](/angebot/entwicklungsfoerderung)
-- [Erziehungsberatung und Elterncoaching](/angebot/Erziehungsberatung-und-Elterncoaching)
-- [Entspannungstraining und Stressmanagement](/angebot/Entspannungstraining-und-Stressmanagement/)
-- [Online-Beratung](/angebot/Online-Beratung/)
-- [Supervision](/angebot/supervision)
-- [Vorträge, Seminare und Workshops](/angebot/vortraege)
+# Leistungen
+- [Klinisch-psychologische Diagnostik, Entwicklungsdiagnostik](/leistungen/Klinisch-psychologische-Diagnostik)
+- [Klinisch-psychologische Behandlung und Beratung](/leistungen/Klinisch-psychologische-Behandlung)
+- [Erziehungsberatung und Elterncoaching](/leistungen/Erziehungsberatung-und-Elterncoaching)
+- [Online-Beratung](/leistungen/Online-Beratung/)
+- [Supervision](/leistungen/supervision)
+- [Vorträge, Seminare und Workshops](/leistungen/vortraege)
